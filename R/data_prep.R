@@ -42,9 +42,9 @@ write_csv(d, "data/env_data_cleanish.csv")
 d <- d %>% mutate_if(is.numeric, scale)
 
 # univariate models ============================================================
-mod_simpson <- lmer(simpson ~ PECI_cv + 
+mod_simpson <- lm(simpson ~ PECI_cv + 
                       herb_C + 
-                      fa+(1|site), d, REML=TRUE);summary(mod_simpson);car::Anova(mod_simpson)
+                      fa+site, d);summary(mod_simpson);car::Anova(mod_simpson)
 
 # mod_shannon <- lmer(shannon ~ PECI_cv + fa+(1|site), d, REML=F);summary(mod_shannon)
 # mod_richness <- glmer(richness ~ PECI_cv+ fa+(1|site), d, family="poisson");summary(mod_richness)
