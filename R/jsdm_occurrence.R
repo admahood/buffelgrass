@@ -5,7 +5,7 @@ library(ggpubr)
 library(ggthemes)
 library(ggtext)
 
-source("R/data_prep.R")
+# source("R/data_prep.R")
 
 # basic data wrangling =========================================================
 # div_long <- read_csv("data/diversity_cleaned_EF.csv") %>%
@@ -102,7 +102,7 @@ env_data_subplot <- pluck(env_data_prep,1) %>%
   replace_na(list(peci_sub_cv = 0))
   
   
-spp_list_new <- div_long %>%
+spp_list_new <- div_long_subplot %>%
   pull(species) %>%
   unique() %>%
   as_tibble() %>%
@@ -178,22 +178,25 @@ mod_no_peci = Hmsc(Y = Y, XData = XData, XFormula = XFormula1, distr="probit",
            ranLevels = list("plot" = rL1))
 
 nChains = 4
-test.run = TRUE
+test.run = FALSE
 if (test.run){
   #with this option, the vignette evaluates in ca. 1 minute in adam's laptop
   thin = 1
   samples = 100
   transient = ceiling(thin*samples*.5)
+  hmsc_file <- "data/hmsc/hmsc_probit_subplot_test.Rda"
+  hmsc_file_no_peci <- "data/hmsc/hmsc_probit_test_no_peci.Rda"
 }else{
   # with a spatial random effect, evaluates in --- 2 hours
   # looks like a compute-optimized aws instance is called for, very little ram usage
-  thin = 100
+  thin = 1000
   samples = 100
   transient = ceiling(thin*samples*.5)
+  hmsc_file <- "data/hmsc/hmsc_probit_subplot.Rda"
+  hmsc_file_no_peci <- "data/hmsc/hmsc_probit_no_peci.Rda"
 }
 t0 <- Sys.time()
-hmsc_file <- "data/hmsc/hmsc_probit_subplot_test.Rda"
-hmsc_file_no_peci <- "data/hmsc/hmsc_probit_test_no_peci.Rda"
+
 
 dir.create("data/hmsc")
 if(!file.exists(hmsc_file)){
