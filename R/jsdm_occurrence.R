@@ -293,10 +293,10 @@ prevalence<- colSums(Y) %>%
 #   ungroup() %>%
 #   arrange(desc(prevalence))
 
-# plotting prevalence for grouping purposes ====================================
+# plotting prevalence for grouping purposes
 
-ggplot(prevalence, aes(x=prevalence, y=Species)) +
-  geom_bar(stat = "identity")
+# ggplot(prevalence, aes(x=prevalence, y=Species)) +
+#   geom_bar(stat = "identity")
 
 XData <- env_data_subplot %>%
   arrange(plot) %>%
@@ -309,13 +309,13 @@ XFormula <- ~elevation+
   fa+
   peci_sub_cv+
   woody_C+
-  totalherb_raw+
+  # totalherb_raw+
   slope
 
 XFormula1 <- ~elevation+
   fa+
   woody_C+
-  totalherb_raw+
+  # totalherb_raw+
   slope
 
 
@@ -349,7 +349,7 @@ mod_no_peci = Hmsc(Y = Y, XData = XData, XFormula = XFormula1, distr="probit",
            ranLevels = list("plot" = rL1))
 
 nChains = 4
-test.run = TRUE
+test.run = FALSE
 if (test.run){
   #with this option, the vignette evaluates in ca. 1 minute in adam's laptop
   thin = 1
@@ -363,8 +363,8 @@ if (test.run){
   thin = 100
   samples = 1000
   transient = ceiling(thin*samples*.5)
-  hmsc_file <- "data/hmsc/hmsc_probit_subplot.Rda"
-  hmsc_file_no_peci <- "data/hmsc/hmsc_probit_no_peci.Rda"
+  hmsc_file <- "data/hmsc/hmsc_probit_subplot_group.Rda"
+  hmsc_file_no_peci <- "data/hmsc/hmsc_probit_no_peci_group.Rda"
 }
 t0 <- Sys.time()
 
