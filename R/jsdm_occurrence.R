@@ -255,7 +255,27 @@ spp_list_new <- div_long_subplot %>%
   pull(species) %>%
   unique() %>%
   as_tibble() %>%
-  rename(species = value)
+  rename(species = value) 
+
+prev0 <- div_wide_subplot %>%
+  arrange(plot) %>%
+  tibble::column_to_rownames("plot") %>%
+  as.matrix
+prev0[prev0>0] <-1
+
+prev <- prev0 %>%
+  colSums() %>%
+  as_tibble(rownames = "species") %>%
+  dplyr::rename(prevalence = value) %>%
+  arrange(desc(prevalence))
+
+spp_list_tab1<- spp_list_new%>%
+  mutate(group = lut_sp_groups[species]) %>%
+  left_join(prev)
+
+  
+write_csv(spp_list_tab1, "table_1_species_list.csv")
+
 # 
 # write_csv(spp_list , "data/spp_list_raw.csv")
 
@@ -282,6 +302,10 @@ prevalence<- colSums(Y) %>%
   dplyr::rename(prevalence = value) %>%
   arrange(desc(prevalence))#%>%
  # mutate(group = lut_sp_groups[Species])
+
+
+
+write_csv(spp_list_tab1, "table_1_species_list.csv")
 
 # group_prevalence<- colSums(Y) %>%
 #   as_tibble(rownames = "Species") %>%
@@ -392,7 +416,7 @@ if(!file.exists(hmsc_file)){
 
 # getting the posteriors =======================================================
 which_model <- "no_peci"
-which_model <- "w_peci"
+# which_model <- "w_peci"
 if(which_model == "no_peci"){
   load(hmsc_file);load(hmsc_file_no_peci)
   m <-m1
@@ -405,25 +429,32 @@ VP <- computeVariancePartitioning(m)
 
 # model convergence, diagnostics ===============================================
 
-psrf.V = gelman.diag(mpost$V,multivariate=FALSE)$psrf%>%
-  as_tibble() %>% dplyr::rename(psrf_v = `Point est.`)
-
+# psrf.V = gelman.diag(mpost$V,multivariate=FALSE)$psrf%>%
+#   as_tibble() %>% dplyr::rename(psrf_v = `Point est.`)
+# 
+# ess.v <- effectiveSize(mpost$V)%>%
+#   as_tibble() %>% dplyr::rename(ess_v = value)
 
 ess.beta <- effectiveSize(mpost$Beta) %>%
-  as_tibble() %>% dplyr::rename(ess_beta = value)
-
-ess.v <- effectiveSize(mpost$V)%>%
-  as_tibble() %>% dplyr::rename(ess_v = value)
+  as_tibble() %>% 
+  dplyr::mutate(variable = "Effective Sample Size")
 psrf.beta <- gelman.diag(mpost$Beta, multivariate=FALSE)$psrf%>%
-  as_tibble() %>% dplyr::rename(psrf_beta = `Point est.`)
+  as_tibble() %>% 
+  dplyr::rename(value = `Point est.`) %>%
+  dplyr::mutate(variable = "Gelman Diagnostic")
 
-diag_all <- ggarrange(ggplot(ess.beta, aes(x=ess_beta)) + 
-                        geom_histogram()+
-                        xlab("Effective Sample Size"),
-                      ggplot(psrf.beta, aes(x=psrf_beta)) +
-                        geom_histogram()+
-                        xlab("Gelman Diagnostic"),
-                      align = "v") +ggtitle("All Plots")
+
+diag_all<-bind_rows(ess.beta, psrf.beta) %>%
+  ggplot(aes(x=value)) +
+  geom_histogram() +
+  theme_classic() +
+  facet_wrap(~variable, scales="free") +
+  ggtitle("Convergence Diagnostics")+
+  theme(plot.background = element_rect( color ="black"),
+        axis.title.x = element_blank(),
+        plot.title = element_text(hjust = 1, face = "bold"))
+
+
 
 ggsave(diag_all,filename = paste0("figs/geldman_ess_",which_model,".pdf"), 
        width = 5.5, height=3.5, bg="white")
@@ -508,7 +539,7 @@ vp <- left_join(vp_df, vp_order) %>%
         legend.title = element_blank(),
         # legend.justification = c(1,0),
         legend.background = element_rect(color="black")) +
-  ggtitle("Variance Partitioning, Occurrence Model")
+  ggtitle("Variance Partitioning")
 }else{
   vp_order <- vp_df %>%
     filter(variable == "fa") %>%
@@ -517,24 +548,26 @@ vp <- left_join(vp_df, vp_order) %>%
     dplyr::select(Species, Species_f) 
   
   vp <- left_join(vp_df, vp_order) %>% 
+    mutate(variable = replace(variable, variable == "fa", "aspect")) %>%
     mutate(variable = factor(variable, c("Random: plot","woody_C",
-                                         "totalherb_raw", "slope","elevation",  "fa"
+                                         "totalherb_raw", "slope","elevation",  "aspect"
     )))%>%
     ggplot(aes(x=value,y=Species_f, fill = variable)) +
     geom_bar(stat="identity")+
     theme_classic() +
     ylab("Species") +
-    xlab("Proportion of Variance Explained") +
+    # xlab("") +
     scale_fill_brewer(palette = "Dark2")+
-    theme(legend.position = "right",
-          legend.text = element_markdown(),
+    theme(legend.text = element_markdown(),
           legend.title = element_blank(),
-          # legend.justification = c(1,0),
-          legend.background = element_rect(color="black")) +
-    ggtitle("Variance Partitioning, Occurrence Model")
+          legend.position = "left",
+          axis.title.x = element_blank(),
+          legend.background = element_rect(color="black"),
+          plot.title = element_text(hjust = 1, face = "bold")) +
+    ggtitle("Proportion of Variance Explained")
   }
 
-ggsave(vp, filename=paste0("figs/variance_partitioning_occurrence_",which_model,".png"),
+ggsave(vp, filename=paste0("figs/variance_partitioning_occurrence_group_",which_model,".png"),
        height = 11.5, width = 9)
 
 # Environmental filters ==================================================
@@ -560,17 +593,24 @@ supported <- postBeta$support %>%
   mutate(sign = ifelse(Mean>0, "+", "-"))%>%
   left_join(vp_order)#
 
-p_beta<-ggplot(supported, aes(x=env_var,y=reorder(Species_f,Species), fill = Mean, color = sign)) +
+p_beta<-supported %>%
+  mutate(env_var = replace(env_var, env_var == "fa", "aspect")) %>%
+  ggplot(aes(x=env_var,y=reorder(Species_f,Species), fill = Mean, color = sign)) +
   geom_tile(lwd=.5) +
-  theme_clean()+
+  theme_classic()+
   scale_fill_steps2() +
   scale_color_manual(values = c(("red"), ("blue"))) +
   guides(color = "none")+
   theme(axis.text.x = element_text(angle=45, vjust=1,hjust = 1),
-        axis.title = element_blank())
+        axis.title = element_blank(),
+        legend.position = "left",
+        plot.background = element_rect(color="black"),
+        plot.title = element_text(hjust = 1, face = "bold")) +
+  ggtitle("Environmental Filters")
 
-ggsave(paste0("figs/betas_binomial_subplot_",which_model,".png"), 
+ggsave(paste0("figs/betas_binomial_subplot_group_",which_model,".png"), 
        bg="white", width=6, height=8)
+
 
 
 
@@ -579,7 +619,7 @@ plotBeta(m, post = postBeta, param = "Support",
 
 # species associations =========================================================
 OmegaCor = computeAssociations(m)
-supportLevel = 0.89
+supportLevel = 0.5
 toPlot = ((OmegaCor[[1]]$support>supportLevel) + 
             (OmegaCor[[1]]$support<(1-supportLevel))>0)*OmegaCor[[1]]$mean
 
@@ -601,22 +641,59 @@ OmegaCor[[1]]$mean %>%
   as_tibble(rownames = "Species") %>%
   arrange(desc(value)) %>%
   left_join(prevalence) %>%
-  print(n=20)
+  print(n=20) %>%
+  write_csv("figs/residual_correlation_abs.csv")
 
 
+# switch colors around
+pcor<-ggcorrplot::ggcorrplot(filtered, type = "lower",
+                       hc.order = TRUE)
 
-ggsave(ggcorrplot::ggcorrplot(filtered, type = "lower",
-                              hc.order = TRUE,
-                              title = "Occurrence, p < 0.11"),
+pcor1<- ggcorrplot::ggcorrplot(hmdf_mean,type = "lower",
+                               hc.order = TRUE,
+                               colors = c("red", "white", "blue"),
+                               title = "Species Associations") +
+  theme(plot.background = element_rect(color="black"),
+        legend.position = c(0,1),
+        legend.justification = c(0,1),
+        legend.background = element_rect(color="black"),
+        plot.title = element_text(hjust = 1, face = "bold"))
+ggsave(pcor,
        filename=paste0("figs/species_associations_filtered_",which_model,".png"),
        bg="white", width=18, height = 18)
 ggsave(ggcorrplot::ggcorrplot(toPlot, type = "lower",hc.order = TRUE, title = "Occurrence"),
        filename=paste0("figs/species_associations_suported_",which_model,".png"),
        bg="white", width=18, height = 18)
-ggsave(ggcorrplot::ggcorrplot(hmdf_mean,type = "lower",hc.order = TRUE, title = "Occurrence"),
+ggsave(pcor1,
        filename=paste0("figs/species_associations_",which_model,".png"),
-       bg="white", width=18, height = 18)
+       bg="white", width=10, height = 10)
 
+# big multipanel ==================
+
+ggarrange(p_beta, vp +
+            theme(plot.background = element_rect(color="black")) ,
+          diag_all, nrow=3, ncol=1, labels = c("(a)","(b)","(c)")) %>%
+  ggarrange(pcor1, widths = c(1,2.5), labels = c("", "(d)")) %>%
+  ggsave(., filename = "figs/multipanel_jsdm.png", height=10, width=15.45, bg="white")
+
+ggarrange(p_beta, vp +
+            theme(plot.background = element_rect(color="black")) ,
+          diag_all, 
+          widths = c(1.5,1.5,1),
+          nrow=1, ncol=3, labels = c("(a)","(b)","(c)")) %>%
+  ggarrange(pcor1, heights = c(1,2), labels = c("", "(d)"),nrow=2) %>%
+  ggsave(., filename = "figs/multipanel_jsdm_vertical.png", height=16.45, width=11, bg="white")
+
+
+
+#smaller mulipanel
+
+ggarrange(p_beta, 
+          diag_all, 
+          nrow=2, ncol=1, labels = c("(a)","(b)")) %>%
+  ggarrange(vp + theme(plot.background = element_rect(color="black")),
+            nrow=1, ncol=2, widths = c(1,1.5),labels = c("", "(c)")) %>%
+  ggsave(., filename = "figs/multipanel_jsdm_nocor.png", height=7, width=12, bg="white")
 
 # gradients ===================
 

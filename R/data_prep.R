@@ -84,13 +84,15 @@ m_oc3 <- lmer(other_SOC ~
                 herb_C+(1|site),d);summary(m_oc3) 
 
 # Path Models ==================================================================
-si_l <-'herb_C ~ PECI_cv+simpson+fa+woody_C+site
-        bare_SOC~ herb_C+ richness+PECI_cv+other_cv+site
-        simpson ~ PECI_cv +site
-        # evenness ~  fa + simpson+richness#+herb_C+site
-        richness ~ PECI_cv+herb_C+simpson+site#+woody_C+site#+other_SOC
+si_l <-'herb_C ~ PECI_cv+shannon+fa+woody_C+site
+        bare_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
+        other_SOC~ richness + PECI_cv + other_cv + site + woody_C + fa
+        # buffel_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
+        shannon ~ PECI_cv +site + fa + woody_C
+        # evenness ~  fa + shannon+richness#+herb_C+site
+        richness ~ PECI_cv+herb_C+shannon+site#+woody_C+site#+other_SOC
         PECI_cv ~ other_cv +fa+ woody_C+site+ richness#+herb_C#+ bare_SOC+other_SOC
-' %>%
+       ' %>%
   lavaan::sem(data=d)
 
 # summary(si_l)
@@ -110,7 +112,30 @@ parameterestimates(si_l) %>%
   filter(max >0.05, min >0.05)
 resid(si_l, "cor")$cov
 set.seed(100)
-paths <- ggsem(fit = si_l, filename = "figs/peci_sem.png", exclude = "site", title = "Path Model", 
-      layout = "auto", alpha = 0.05);paths
 
-ggsave(paths, filename = "figs/pathmod_jan31.png",bg='white',height =7, width =9)
+
+layout_df <-  random_layout(si_l) %>%
+  mutate(x=replace(x, metric=="fa", -1),
+         y=replace(y, metric=="fa", 1),
+         x=replace(x, metric=="woody_C", -1),
+         y=replace(y, metric=="woody_C", 0),
+         x=replace(x, metric=="richness", 1.3),
+         y=replace(y, metric=="richness", -.33),
+         x=replace(x, metric=="other_cv", -1),
+         y=replace(y, metric=="other_cv", -1),
+         x=replace(x, metric=="PECI_cv", 0),
+         y=replace(y, metric=="PECI_cv", 0),
+         x=replace(x, metric=="bare_SOC", 1.3),
+         y=replace(y, metric=="bare_SOC", .33),
+         x=replace(x, metric=="herb_C", 0),
+         y=replace(y, metric=="herb_C", 1),
+         x=replace(x, metric=="shannon", 1),
+         y=replace(y, metric=="shannon", -1),
+         x=replace(x, metric=="other_SOC", 1),
+         y=replace(y, metric=="other_SOC", 1))
+
+
+paths <- ggsem(fit = si_l, filename = "figs/peci_sem.png", exclude = "site", title = "Path Model", 
+      layout = "manual",layout_df = layout_df, alpha = 0.05);paths
+
+ggsave(paths, filename = "figs/pathmod_july18.png",bg='white',height =7, width =9)

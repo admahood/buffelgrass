@@ -14,7 +14,7 @@ lapply(libs, library, character.only = TRUE)
 # also this:
 # https://cran.r-project.org/web/packages/ggraph/vignettes/Edges.html
 
-ggsem <- function(fit, filename, title="Path Model",
+ggsem <- function(fit, filename, title="Path Model",layout_df = NA,
                   layout = "auto", alpha = 0.05, exclude = "none") {
   
   # Extract standardized parameters
@@ -79,8 +79,21 @@ ggsem <- function(fit, filename, title="Path Model",
   # Complete Graph Object
   param_graph1 <- tidygraph::tbl_graph(param_nodes, 
                                        param_edges)
+  # setting up the manual layout
   
-  layout1 <- create_layout(param_graph1, layout=layout)
+  if(layout == "manual"){
+    lut_x <- layout_df$x; names(lut_x) <- layout_df$metric
+    lut_y <- layout_df$y; names(lut_y) <- layout_df$metric
+  
+    layout_man <- create_layout(param_graph1, layout = "linear") %>%
+      mutate(x = lut_x[metric],
+             y=lut_y[metric]) %>%
+      dplyr::select(x,y) %>%
+      as.data.frame()
+    
+    # applying the manual layout to the graph objects, one for each group
+    layout1 <- create_layout(param_graph1, layout = layout_man)}else{
+    layout1 <- create_layout(param_graph1, layout=layout)}
   
   p1_title <- title[1]
   
@@ -101,7 +114,8 @@ ggsem <- function(fit, filename, title="Path Model",
                    nudge_y = 0.05, size = 10) +
     scale_edge_color_brewer(name = "Direction",palette = "Set1",direction = 1) +
     scale_edge_linetype()+
-    scale_edge_width(guide = "none", range = c(.5,4))+
+    scale_edge_width(guide = "none", range = c(.5,4)) +
+    scale_x_continuous(expand = c(0.1,0.1))+
     scale_size(guide = "none") +
     theme_graph(fg_text_colour = 'white', 
                 base_family = 'Times')+
@@ -120,4 +134,12 @@ get_nodes <- function(fit){
   lavaan::standardizedsolution(fit) %>% 
     filter(lhs == rhs) %>% 
     transmute(metric = lhs, e = est.std)
+}
+
+random_layout <- function(fit){
+  get_nodes(fit) %>%
+    mutate(x=runif(nrow(.), min=-1, max=1),
+           y=runif(nrow(.), min=-1, max=1)) %>%
+    dplyr::select(-e) %>%
+    as_tibble()
 }
