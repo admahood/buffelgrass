@@ -9,6 +9,8 @@ source("R/ggplot_sem.R")
 get_folded_aspect<-function(aspect){
   180 - abs(aspect-180)
 }
+weighted_c <- read_csv("data/weighted_carbon.csv")
+
 
 d <- read_csv("data/AGB_woody_biomass.csv") %>%
   left_join(read_csv("data/Biodiversity.csv")) %>%
@@ -35,11 +37,14 @@ d <- read_csv("data/AGB_woody_biomass.csv") %>%
                 herb_C = avgherbcarb_g_m2,
                 bare_SOC = bare_SOC_g_m2,
                 buffel_SOC = buffel_SOC_g_m2,
-                other_SOC = other_SOC_g_m2) 
+                other_SOC = other_SOC_g_m2) %>%
+  left_join(x=weighted_c %>% dplyr::select(-site, -plot, -bare_cover),
+            y=., by = "site_plot") %>%
+  mutate(slope_aspect = fa * slope) %>% 
+  dplyr::rename(soil_TC = weighted_TC_gC_m2) %>%
+  mutate_if(is.numeric, scale)
 
 write_csv(d, "data/env_data_cleanish.csv")
-
-d <- d %>% mutate_if(is.numeric, scale)
 
 # univariate models ============================================================
 mod_simpson <- lm(simpson ~ PECI_cv + 
@@ -95,6 +100,8 @@ si_l <-'herb_C ~ PECI_cv+shannon+fa+woody_C+site
        ' %>%
   lavaan::sem(data=d)
 
+
+
 # summary(si_l)
 si_l
 
@@ -139,3 +146,56 @@ paths <- ggsem(fit = si_l, filename = "figs/peci_sem.png", exclude = "site", tit
       layout = "manual",layout_df = layout_df, alpha = 0.05);paths
 
 ggsave(paths, filename = "figs/pathmod_july18_nosoil.png",bg='white',height =7, width =9)
+
+# path model with weighted C estimates
+
+si_t <-'herb_C ~ PECI_cv+shannon+fa+woody_C+site
+        ecosystem_gC_m2 ~ PECI_cv + herb_C + fa + richness  + site
+        shannon ~ PECI_cv +site + fa + herb_C + richness
+        richness ~ PECI_cv+herb_C+shannon+site+ ecosystem_gC_m2#+other_SOC
+        PECI_cv ~ other_cv +fa+ woody_C+site+ richness+ecosystem_gC_m2
+       ' %>%
+  lavaan::sem(data=d)
+
+# summary(si_l)
+si_t
+
+# looking for paths to add
+modificationindices(si_t, sort. = TRUE)[1:10,]
+# looking for paths to subtract
+parameterestimates(si_t) %>%
+  filter(op=="~")%>%
+  group_by(lhs, op, rhs) %>%
+  dplyr::summarise(max = max(pvalue, na.rm=T),
+                   min=min(pvalue, na.rm=T),
+                   mean=mean(pvalue, na.rm=T)) %>%
+  ungroup()%>%
+  arrange(desc(mean)) %>%
+  filter(max >0.05, min >0.05)
+resid(si_t, "cor")$cov
+set.seed(100)
+
+layout_df <-  random_layout(si_t) %>%
+  mutate(x=replace(x, metric=="fa", -1),
+         y=replace(y, metric=="fa", 1),
+         x=replace(x, metric=="woody_C", -1),
+         y=replace(y, metric=="woody_C", 0),
+         x=replace(x, metric=="richness", 1.3),
+         y=replace(y, metric=="richness", -.33),
+         x=replace(x, metric=="other_cv", -1),
+         y=replace(y, metric=="other_cv", -1),
+         x=replace(x, metric=="PECI_cv", 0),
+         y=replace(y, metric=="PECI_cv", 0),
+         x=replace(x, metric=="bare_SOC", 1.3),
+         y=replace(y, metric=="bare_SOC", .33),
+         x=replace(x, metric=="herb_C", 0),
+         y=replace(y, metric=="herb_C", 1),
+         x=replace(x, metric=="shannon", 1),
+         y=replace(y, metric=="shannon", -1),
+         x=replace(x, metric=="ecosystem_gC_m2", 1),
+         y=replace(y, metric=="ecosystem_gC_m2", 1))
+
+paths <- ggsem(fit = si_t, filename = "figs/peci_semt.png", exclude = "site", title = "Path Model", 
+               layout = "manual",layout_df = layout_df, alpha = 0.05);paths
+
+ggsave(paths, filename = "figs/pathmod_ecosystem_weighted_c.png",bg='white',height =7, width =9)
