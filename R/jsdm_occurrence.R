@@ -1,3 +1,5 @@
+# buffelgrass jsdm
+
 library(tidyverse)
 library(Hmsc)
 require(snow)
@@ -13,7 +15,7 @@ library(ggtext)
 
 # look up tables ===============================================================
 
-lut_sp_groups <- c("Abutilon_palmeri"    = "shrub",
+lut_sp_groups <- c("Abutilon_palmeri" = "shrub",
                    "Abutilon_abutiloides" = "perennial_forb",
                    "Acacia_greggii" = "leguminous_tree",
                    "Acacia_sp_unarmed" = "leguminous_tree",

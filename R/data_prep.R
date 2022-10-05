@@ -85,10 +85,10 @@ m_oc3 <- lmer(other_SOC ~
 
 # Path Models ==================================================================
 si_l <-'herb_C ~ PECI_cv+shannon+fa+woody_C+site
-        bare_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
-        other_SOC~ richness + PECI_cv + other_cv + site + woody_C + fa
+        # bare_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
+        # other_SOC~ richness + PECI_cv + other_cv + site + woody_C + fa
         # buffel_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
-        shannon ~ PECI_cv +site + fa + woody_C
+        shannon ~ PECI_cv +site + fa + herb_C + richness
         # evenness ~  fa + shannon+richness#+herb_C+site
         richness ~ PECI_cv+herb_C+shannon+site#+woody_C+site#+other_SOC
         PECI_cv ~ other_cv +fa+ woody_C+site+ richness#+herb_C#+ bare_SOC+other_SOC
@@ -138,4 +138,4 @@ layout_df <-  random_layout(si_l) %>%
 paths <- ggsem(fit = si_l, filename = "figs/peci_sem.png", exclude = "site", title = "Path Model", 
       layout = "manual",layout_df = layout_df, alpha = 0.05);paths
 
-ggsave(paths, filename = "figs/pathmod_july18.png",bg='white',height =7, width =9)
+ggsave(paths, filename = "figs/pathmod_july18_nosoil.png",bg='white',height =7, width =9)
