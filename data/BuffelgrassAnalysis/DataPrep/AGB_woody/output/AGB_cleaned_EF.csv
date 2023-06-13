@@ -1,0 +1,1578 @@
+plot,subplot,datasheet_number,subplot_size,individual_number,species_raw,genus,species,usda_code,growthform,bole_total,bole_n,arm_total,arm_n,measurement_variable,measurement,units,status,total_minishrub,notes,unknown_status,scientific_name_clean,measurement_variable_clean
+LOLA_01,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,0,NA,AlphaUp,38,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_01,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,0,NA,AlphaDown,30.5,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_01,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,0,NA,Distance,285,cm,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_01,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,0,NA,Height,458,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,0,NA,ddh,27,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,0,NA,Height,211,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,0,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,1,ArmLength1,43,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,2,ArmLength2,28,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Distance,420,cm,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaUp,55,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaDown,54,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Height,1178,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,ddh,22,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,0,NA,Height,175,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,0,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,0,NA,Height,53,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,0,NA,ddh,23,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,0,NA,Height,319,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,0,NA,ddh,19,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,whole plot,7,NA,1,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,Height,151,cm,alive,67,NA,NA,Lycium sp. (2),Height
+LOLA_01,whole plot,7,NA,1,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,200,cm,alive,67,NA,NA,Lycium sp. (2),maxD
+LOLA_01,whole plot,7,NA,1,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,197,cm,alive,67,NA,NA,Lycium sp. (2),max90D
+LOLA_01,whole plot,7,NA,1,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,67,NA,NA,Lycium sp. (2),dbh
+LOLA_01,whole plot,7,NA,1,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.1,cm,alive,67,NA,NA,Lycium sp. (2),ddh
+LOLA_01,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,Height,100,cm,alive,67,NA,NA,Lycium sp. (2),Height
+LOLA_01,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,151,cm,alive,67,NA,NA,Lycium sp. (2),maxD
+LOLA_01,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,95,cm,alive,67,NA,NA,Lycium sp. (2),max90D
+LOLA_01,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,67,NA,NA,Lycium sp. (2),dbh
+LOLA_01,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.2,cm,alive,67,NA,NA,Lycium sp. (2),ddh
+LOLA_01,whole plot,7,NA,3,ENFO,NA,NA,NA,NA,NA,NA,NA,NA,Height,74,cm,alive,67,NA,NA,Encelia farinosa,Height
+LOLA_01,whole plot,7,NA,3,ENFO,NA,NA,NA,NA,NA,NA,NA,NA,crownD,112,cm,alive,67,NA,NA,Encelia farinosa,maxD
+LOLA_01,whole plot,7,NA,3,ENFO,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,68,cm,alive,67,NA,NA,Encelia farinosa,max90D
+LOLA_01,whole plot,7,NA,3,ENFO,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,67,NA,NA,Encelia farinosa,dbh
+LOLA_01,whole plot,7,NA,3,ENFO,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,67,NA,NA,Encelia farinosa,ddh
+LOLA_01,1,3,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,44,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+LOLA_01,1,3,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,32,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+LOLA_01,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,148,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_01,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,10,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_01,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,145,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_01,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,70,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_01,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,122,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_01,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_01,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,97,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_01,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,103,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_01,2,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,131,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_01,2,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_01,2,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,153,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_01,2,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,145,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,1,NA,NA,ddh,5.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,1,NA,NA,dbh,3,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,2,NA,NA,ddh,5.25,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,2,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,3,NA,NA,ddh,9,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,3,NA,NA,dbh,2.75,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crown90D,189,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crownD,349,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,basecrownheight,51,cm,alive,NA,NA,NA,Parkinsonia microphylla,basecrownheight
+LOLA_01,3,3,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,Height,260,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,11,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_01,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_01,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,362,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_01,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_01,3,3,25,4,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,Height,117,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,Height
+LOLA_01,3,3,25,4,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,15,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,maxDbase
+LOLA_01,3,3,25,4,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,98,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,maxD
+LOLA_01,3,3,25,4,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,71,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,max90D
+LOLA_01,3,3,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9.9,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,3,3,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2.2,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,3,3,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,363,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,3,3,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,375,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,3,3,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,246,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,3,3,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,basecrownheight,0,NA,alive,NA,NA,NA,Parkinsonia microphylla,basecrownheight
+LOLA_01,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,115,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_01,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_01,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,121,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_01,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,52,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_01,4,3,25,2,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,200,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,4,3,25,2,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.6,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,4,3,25,2,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9.4,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,4,3,25,2,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,121,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,4,3,25,2,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,52,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,4,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,195,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,4,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,4,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,7,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,4,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,186,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,4,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,174,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,4,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,284,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,4,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,7.1,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,4,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,10.8,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,4,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,282,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,4,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,283,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,5,4,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,65,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+LOLA_01,5,4,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,32,NA,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+LOLA_01,6,4,25,1,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,219,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,6,4,25,1,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,162,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,6,4,25,1,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,223,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,6,4,25,1,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9.1,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,6,4,25,1,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2.8,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,7,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,105,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,7,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_01,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,409,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_01,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_01,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_01,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,1,NA,NA,ddh,4.25,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,1,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,2,NA,NA,ddh,6.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,2,NA,NA,dbh,2.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,3,NA,NA,ddh,4,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,3,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,NA,NA,NA,Height,234,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crownD,273,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,7,4,25,4,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crown90D,180,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,1,NA,NA,ddh,7.1,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,1,NA,NA,dbh,2,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,2,NA,NA,ddh,5.9,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,2,NA,NA,dbh,1,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,NA,NA,NA,Height,222,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crownD,271,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_01,7,4,25,5,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crown90D,331,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_01,7,4,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,100,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_01,7,4,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,1.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_01,7,4,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,49,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_01,7,4,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,26,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_01,8,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,120,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_01,8,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,21,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,362,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,2A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,2A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,121,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,2B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,2B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,119,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,18,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,140,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,4A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,22,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,4A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,350,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,4B,CAGI,NA,NA,NA,NA,NA,NA,1,NA,ddh,23,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,4B,CAGI,NA,NA,NA,NA,NA,NA,1,NA,Height,430,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,4B,CAGI,NA,NA,NA,NA,NA,NA,1,1,ArmLength1,45,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_02,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,22,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,363,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,NA,ddh,27,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,NA,distance,5,m,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaUp,35,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaDown,19,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Height,522,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,1,ArmLength1,83,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_02,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,2,2,ArmLength2,168,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+LOLA_02,whole plot,1,NA,7A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,7A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,183,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,7B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,10,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,7B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,143,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,8A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,8A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,153,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,8B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,28,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,8B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,450,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,9A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,9A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,209,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,9B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,9B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,369,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,10A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,19,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,10A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,334,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,10B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,10B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,237,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_02,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,173,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_02,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,79,cm,alive,129,NA,NA,Encelia farinosa,Height
+LOLA_02,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,61,cm,alive,129,NA,NA,Encelia farinosa,maxD
+LOLA_02,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,53,cm,alive,129,NA,NA,Encelia farinosa,max90D
+LOLA_02,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,129,NA,NA,Encelia farinosa,dbh
+LOLA_02,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.1,cm,alive,129,NA,NA,Encelia farinosa,ddh
+LOLA_02,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,82,cm,alive,129,NA,NA,Encelia farinosa,Height
+LOLA_02,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,124,cm,alive,129,NA,NA,Encelia farinosa,maxD
+LOLA_02,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,134,cm,alive,129,NA,NA,Encelia farinosa,max90D
+LOLA_02,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,129,NA,NA,Encelia farinosa,dbh
+LOLA_02,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2.2,cm,alive,129,NA,NA,Encelia farinosa,ddh
+LOLA_02,whole plot,7,NA,3,SACA,NA,NA,NA,NA,NA,NA,NA,NA,Height,83,cm,alive,129,NA,NA,Jatropha cardiophylla,Height
+LOLA_02,whole plot,7,NA,3,SACA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,164,cm,alive,129,NA,NA,Jatropha cardiophylla,maxD
+LOLA_02,whole plot,7,NA,3,SACA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,178,cm,alive,129,NA,NA,Jatropha cardiophylla,max90D
+LOLA_02,whole plot,7,NA,3,SACA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,129,NA,NA,Jatropha cardiophylla,dbh
+LOLA_02,whole plot,7,NA,3,SACA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.7,cm,alive,129,NA,NA,Jatropha cardiophylla,ddh
+LOLA_02,1,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_02,1,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,122,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,1,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,1,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,116,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,1,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,98,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,1,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,126,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,1,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,1,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,167,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,1,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,64,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,1,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,274,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_02,1,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,312,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_02,1,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,285,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_02,1,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_02,1,3,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_02,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,126,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,167,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,64,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,3,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,130,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_02,3,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,22,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_02,3,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,274,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_02,3,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,312,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_02,3,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,285,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_02,3,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_02,3,3,25,3,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_02,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,81,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,71,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,43,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,490,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_02,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_02,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_02,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_02,4,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,111,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,4,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,3,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,4,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,95.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,4,3,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,47,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,4,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,51,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,4,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,4,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,68,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,4,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,30,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,295,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_02,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,13,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_02,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_02,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_02,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,99,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,52,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,58,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,6,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_02,6,4,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_02,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,121,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,253,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,199,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,6,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,159,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,6,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,6,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,180,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,6,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,121,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,87,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,56,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,20,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,7,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,95,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,7,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,7,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,139,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,7,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,107,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,64,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_02,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_02,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,62,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_02,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,52,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_02,7,4,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_02,7,4,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,247,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_02,7,4,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,210,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_02,7,4,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,223,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_02,7,4,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,5.1,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_02,7,4,25,5,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2.4,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_02,8,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,14,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_03,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,130,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,159,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,210,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,19,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,202,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,258,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,20,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,158,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,308,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,21,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,193,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,19,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,208,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,21,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,10,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,382,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,10,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,22,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,277,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,1,NA,12,GACI,NA,NA,NA,NA,NA,NA,NA,NA,Height,168,cm,dead,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,whole plot,1,NA,12,GACI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,dead,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,155,cm,alive,105,NA,NA,Jatropha cardiophylla,maxD
+LOLA_03,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,133,cm,alive,105,NA,NA,Jatropha cardiophylla,max90D
+LOLA_03,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,Height,81,cm,alive,105,NA,NA,Jatropha cardiophylla,Height
+LOLA_03,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.4,cm,alive,105,NA,NA,Jatropha cardiophylla,ddh
+LOLA_03,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,105,NA,NA,Jatropha cardiophylla,dbh
+LOLA_03,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,107,cm,alive,105,NA,NA,Encelia farinosa,maxD
+LOLA_03,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,86,cm,alive,105,NA,NA,Encelia farinosa,max90D
+LOLA_03,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,94,cm,alive,105,NA,NA,Encelia farinosa,Height
+LOLA_03,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.1,cm,alive,105,NA,NA,Encelia farinosa,ddh
+LOLA_03,whole plot,7,NA,2,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,105,NA,NA,Encelia farinosa,dbh
+LOLA_03,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,121,cm,alive,105,NA,NA,Encelia farinosa,maxD
+LOLA_03,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,85,cm,alive,105,NA,NA,Encelia farinosa,max90D
+LOLA_03,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,79,cm,alive,105,NA,NA,Encelia farinosa,Height
+LOLA_03,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2.2,cm,alive,105,NA,NA,Encelia farinosa,ddh
+LOLA_03,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,105,NA,NA,Encelia farinosa,dbh
+LOLA_03,1,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,246,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_03,2,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,306,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,2,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,2,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,2,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,7,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,2,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,388,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,2,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,22,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,2,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,2,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,2,3,25,3,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,Height,171,cm,alive,NA,inverted cone,NA,Lycium sp. (2),Height
+LOLA_03,2,3,25,3,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,inverted cone,NA,Lycium sp. (2),maxDbase
+LOLA_03,2,3,25,3,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,inverted cone,NA,Lycium sp. (2),max90Dbase
+LOLA_03,2,3,25,3,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,195,cm,alive,NA,inverted cone,NA,Lycium sp. (2),maxD
+LOLA_03,2,3,25,3,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,139,cm,alive,NA,inverted cone,NA,Lycium sp. (2),max90D
+LOLA_03,2,3,25,3,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,NA,inverted cone,NA,Lycium sp. (2),ddh
+LOLA_03,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,333,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,1,NA,NA,ddh,6,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,1,NA,NA,dbh,4,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,2,NA,NA,ddh,17.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,2,NA,NA,dbh,5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,NA,NA,NA,Height,334,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crownD,502,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_03,4,3,25,1,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crown90D,345,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,1,NA,NA,ddh,10,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,1,NA,NA,dbh,4,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,2,NA,NA,ddh,7.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,2,NA,NA,dbh,4.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,NA,NA,NA,Height,332,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crownD,294,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_03,4,3,25,2,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crown90D,295,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_03,4,3,25,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,79,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,4,3,25,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,386,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,16,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,99,cm,alive,NA,sphere,NA,Cylindropuntia versicolor,Height
+LOLA_03,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,208,cm,alive,NA,sphere,NA,Cylindropuntia versicolor,maxD
+LOLA_03,5,4,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,124,cm,alive,NA,sphere,NA,Cylindropuntia versicolor,max90D
+LOLA_03,6,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,107,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_03,6,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_03,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,440,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,106,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_03,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_03,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,114,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_03,6,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,108,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_03,6,4,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,188,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_03,6,4,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,195,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_03,6,4,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,191,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_03,6,4,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,10.1,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_03,6,4,25,4,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.4,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_03,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,72,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_03,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_03,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,49,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_03,7,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,86,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_03,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,450,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,13,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,359,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_03,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_03,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_03,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_03,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,118,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_03,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_03,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,73,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_03,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,70,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_03,7,4,25,5,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,168,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_03,7,4,25,5,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_03,7,4,25,5,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,186,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_03,7,4,25,5,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,221,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_03,7,4,25,6,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_03,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,130,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_03,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_03,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,185,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_03,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,156,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_03,7,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,325.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_03,7,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,411,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_03,7,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,375,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_03,8,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15.8,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_03,8,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,4.2,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_03,8,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,325.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_03,8,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,411,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_03,8,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,375,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_03,8,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,172,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_03,8,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_03,8,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,192,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_03,8,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,176,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_04,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,237,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,337,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,20,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,1,ArmLength1,111,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,2,ArmLength2,160,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,ddh,32,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Height,623,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaUp,50,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaDown,37,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_04,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Distance,320,cm,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_04,whole plot,1,NA,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,28,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+LOLA_04,whole plot,1,NA,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,7,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+LOLA_04,whole plot,1,NA,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,640,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+LOLA_04,whole plot,1,NA,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,630,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+LOLA_04,whole plot,1,NA,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,360,cm,alive,NA,NA,NA,Prosopis velutina,Height
+LOLA_04,whole plot,1,NA,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,MeasurementHeight,47,cm,alive,NA,NA,NA,Prosopis velutina,MeasurementHeight
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,1,ArmLength1,79,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,2,ArmLength2,109,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,NA,ddh,128,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,NA,distance,723,cm,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaUp,42,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,NA,AlphaDown,0,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_04,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Height,651,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,20,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,distance,736,cm,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_04,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,AlphaUp,32,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_04,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,AlphaDown,0,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_04,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,460,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,267,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,18,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,322,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,397,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,124,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,7,NA,6B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,Height,84,cm,alive,42,NA,NA,Encelia farinosa,Height
+LOLA_04,whole plot,7,NA,6B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,99,cm,alive,42,NA,NA,Encelia farinosa,maxD
+LOLA_04,whole plot,7,NA,6B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,88,cm,alive,42,NA,NA,Encelia farinosa,max90D
+LOLA_04,whole plot,7,NA,6B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,42,NA,NA,Encelia farinosa,ddh
+LOLA_04,whole plot,7,NA,7B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,Height,76,cm,alive,42,NA,NA,Encelia farinosa,Height
+LOLA_04,whole plot,7,NA,7B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,113,cm,alive,42,NA,NA,Encelia farinosa,maxD
+LOLA_04,whole plot,7,NA,7B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,73,cm,alive,42,NA,NA,Encelia farinosa,max90D
+LOLA_04,whole plot,7,NA,7B,ENFI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.5,cm,alive,42,NA,NA,Encelia farinosa,ddh
+LOLA_04,whole plot,7,NA,8B,SACA,NA,NA,NA,NA,NA,NA,NA,NA,Height,109,cm,alive,42,NA,NA,Jatropha cardiophylla,Height
+LOLA_04,whole plot,7,NA,8B,SACA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,163,cm,alive,42,NA,NA,Jatropha cardiophylla,maxD
+LOLA_04,whole plot,7,NA,8B,SACA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,100,cm,alive,42,NA,NA,Jatropha cardiophylla,max90D
+LOLA_04,whole plot,7,NA,8B,SACA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2,cm,alive,42,NA,NA,Jatropha cardiophylla,ddh
+LOLA_04,whole plot,4,NA,1A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,188,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_04,whole plot,4,NA,1A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,165,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_04,whole plot,4,NA,1A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,177,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_04,whole plot,4,NA,1A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_04,whole plot,4,NA,1A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,NA,NA,NA,Height,319,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crownD,295,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crown90D,229,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,1,NA,NA,ddh,6,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,1,NA,NA,dbh,3,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,2,NA,NA,ddh,7.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_04,whole plot,4,NA,2A,PAMI,NA,NA,NA,NA,2,2,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_04,whole plot,4,NA,3A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,190,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_04,whole plot,4,NA,3A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,13,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_04,whole plot,4,NA,3A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,232,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_04,whole plot,4,NA,3A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,203,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_04,whole plot,4,NA,4A,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,28,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+LOLA_04,whole plot,4,NA,4A,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,28,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+LOLA_04,whole plot,4,NA,5A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,410,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_04,whole plot,4,NA,5A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_04,whole plot,4,NA,5A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_04,whole plot,4,NA,5A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_04,whole plot,4,NA,6A,Lycium sp 2 (inverted cone),NA,NA,NA,NA,NA,NA,NA,NA,Height,207,cm,alive,NA,NA,NA,Lycium sp. (2),Height
+LOLA_04,whole plot,4,NA,6A,Lycium sp 2 (inverted cone),NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,20,cm,alive,NA,NA,NA,Lycium sp. (2),maxDbase
+LOLA_04,whole plot,4,NA,6A,Lycium sp 2 (inverted cone),NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,23,cm,alive,NA,NA,NA,Lycium sp. (2),max90Dbase
+LOLA_04,whole plot,4,NA,6A,Lycium sp 2 (inverted cone),NA,NA,NA,NA,NA,NA,NA,NA,crownD,220,cm,alive,NA,NA,NA,Lycium sp. (2),maxD
+LOLA_04,whole plot,4,NA,6A,Lycium sp 2 (inverted cone),NA,NA,NA,NA,NA,NA,NA,NA,crown90D,210,cm,alive,NA,NA,NA,Lycium sp. (2),max90D
+LOLA_04,whole plot,4,NA,7A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,320,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_04,whole plot,4,NA,7A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,16,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_04,whole plot,4,NA,7A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_04,whole plot,4,NA,7A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_04,whole plot,4,NA,8A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,94,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,4,NA,8A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,107,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_04,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_04,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,98,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_04,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,55,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_04,whole plot,4,NA,10A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,265,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_04,whole plot,4,NA,10A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,274,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_04,whole plot,4,NA,10A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,282,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_04,whole plot,4,NA,10A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_04,whole plot,4,NA,10A,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_04,whole plot,4,NA,1B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,236,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,4,NA,1B,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,379,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_04,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_04,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_04,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,465,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,17,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,17,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,distance,440,cm,alive,NA,NA,NA,Fouquieria splendens,Distance
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,AlphaUp,40,NA,alive,NA,NA,NA,Fouquieria splendens,AlphaUp
+LOLA_04,whole plot,4,NA,2C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,AlphaDown,17,NA,alive,NA,NA,NA,Fouquieria splendens,AlphaDown
+LOLA_04,whole plot,4,NA,4C,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,120,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,4,NA,4C,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,4,NA,5C,FEWI,NA,NA,NA,NA,2,NA,NA,NA,Height,78,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+LOLA_04,whole plot,4,NA,5C,FEWI,NA,NA,NA,NA,2,1,NA,NA,MaxDiameter,39,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+LOLA_04,whole plot,4,NA,5C,FEWI,NA,NA,NA,NA,2,2,NA,NA,PerpendiculartoMax,38,cm,alive,NA,NA,NA,Ferocactus wislizeni,max90D
+LOLA_04,whole plot,4,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,335,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_04,whole plot,4,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_04,whole plot,4,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_04,whole plot,4,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,6,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_04,whole plot,4,NA,7C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,127,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_04,whole plot,4,NA,7C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_04,whole plot,4,NA,7C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,128,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_04,whole plot,4,NA,7C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,96,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_04,whole plot,4,NA,8C,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,92,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_04,whole plot,4,NA,8C,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,13,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_04,whole plot,4,NA,9C,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,Height,91,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,Height
+LOLA_04,whole plot,4,NA,9C,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,maxDbase
+LOLA_04,whole plot,4,NA,9C,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,42,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,maxD
+LOLA_04,whole plot,4,NA,9C,CYBI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,32,cm,alive,NA,NA,NA,Cylindropuntia bigelovii,max90D
+LOLA_04,whole plot,4,NA,10C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,280,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_04,whole plot,4,NA,10C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,20,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_04,whole plot,4,NA,10C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,16,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_04,whole plot,4,NA,10C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,410,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,27,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,264,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,22,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,450,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,24,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,306,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,172,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,146,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,158,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,160,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,425,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,25,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,Height,106,cm,alive,24,NA,NA,Jatropha cardiophylla,Height
+LOLA_05,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,52,cm,alive,24,NA,NA,Jatropha cardiophylla,maxD
+LOLA_05,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,62,cm,alive,24,NA,NA,Jatropha cardiophylla,max90D
+LOLA_05,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,24,NA,NA,Jatropha cardiophylla,ddh
+LOLA_05,whole plot,7,NA,1,JACA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,24,NA,NA,Jatropha cardiophylla,dbh
+LOLA_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,Height,110,cm,alive,24,NA,NA,Lycium sp. (2),Height
+LOLA_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,88,cm,alive,24,NA,NA,Lycium sp. (2),maxD
+LOLA_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,108,cm,alive,24,NA,NA,Lycium sp. (2),max90D
+LOLA_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,0.5,cm,alive,24,NA,NA,Lycium sp. (2),ddh
+LOLA_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,24,NA,NA,Lycium sp. (2),dbh
+LOLA_05,whole plot,7,NA,3,JACA,NA,NA,NA,NA,NA,NA,NA,NA,Height,101,cm,alive,24,NA,NA,Jatropha cardiophylla,Height
+LOLA_05,whole plot,7,NA,3,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,127,cm,alive,24,NA,NA,Jatropha cardiophylla,maxD
+LOLA_05,whole plot,7,NA,3,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,128,cm,alive,24,NA,NA,Jatropha cardiophylla,max90D
+LOLA_05,whole plot,7,NA,3,JACA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.5,cm,alive,24,NA,NA,Jatropha cardiophylla,ddh
+LOLA_05,whole plot,7,NA,3,JACA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,24,NA,NA,Jatropha cardiophylla,dbh
+LOLA_05,whole plot,4,NA,1A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,134,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_05,whole plot,4,NA,1A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_05,whole plot,4,NA,1A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,201,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_05,whole plot,4,NA,1A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,143,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_05,whole plot,4,NA,2A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,346,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_05,whole plot,4,NA,2A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_05,whole plot,4,NA,2A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_05,whole plot,4,NA,2A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,4,NA,3A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,316,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_05,whole plot,4,NA,3A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_05,whole plot,4,NA,3A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_05,whole plot,4,NA,3A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,4,NA,4A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,365,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_05,whole plot,4,NA,4A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_05,whole plot,4,NA,4A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_05,whole plot,4,NA,4A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,4,NA,5A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,49,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,4,NA,5A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,4,NA,6A,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,41,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+LOLA_05,whole plot,4,NA,6A,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,32,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+LOLA_05,whole plot,4,NA,7A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,87,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_05,whole plot,4,NA,7A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_05,whole plot,4,NA,7A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,118,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_05,whole plot,4,NA,7A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,51,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_05,whole plot,4,NA,8A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,38,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_05,whole plot,4,NA,8A,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,7,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_05,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,100,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_05,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_05,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,82,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_05,whole plot,4,NA,9A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,64,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_05,whole plot,4,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,78,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_05,whole plot,4,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,2.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_05,whole plot,4,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,42,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_05,whole plot,4,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,34,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_05,whole plot,4,NA,1B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,126,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_05,whole plot,4,NA,1B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_05,whole plot,4,NA,1B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_05,whole plot,4,NA,1B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,389,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_05,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_05,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_05,whole plot,4,NA,2B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,4,NA,3B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,386,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_05,whole plot,4,NA,3B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_05,whole plot,4,NA,3B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_05,whole plot,4,NA,3B,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_05,whole plot,4,NA,4B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,160,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_05,whole plot,4,NA,4B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,19,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_05,whole plot,4,NA,4B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,225,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_05,whole plot,4,NA,4B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,177,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_05,whole plot,4,NA,5B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,114,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_05,whole plot,4,NA,5B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_05,whole plot,4,NA,5B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,136,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_05,whole plot,4,NA,5B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,151,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_06,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,134,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,1,1,ArmLength1,57,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_06,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,1,NA,ddh,26,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,1,NA,distance,5,m,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_06,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,1,NA,AlphaUp,26,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_06,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,1,NA,AlphaDown,28,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_06,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,1,NA,Height,510,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,313,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,20,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,306,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,24,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,230,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,24,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,368,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,22,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,1,1,ArmLength1,70,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+LOLA_06,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,1,NA,ddh,30,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,1,NA,distance,500,cm,alive,NA,NA,NA,Carnegiea gigantea,Distance
+LOLA_06,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,1,NA,AlphaUp,25,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+LOLA_06,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,1,NA,AlphaDown,33,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+LOLA_06,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,1,NA,Height,558,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,326,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,23,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,182,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,10,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,119,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,10,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,290,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,whole plot,1,NA,12,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,306,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+LOLA_06,whole plot,1,NA,12,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,23,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+LOLA_06,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,79,cm,alive,140,NA,NA,Encelia farinosa,Height
+LOLA_06,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,128,cm,alive,140,NA,NA,Encelia farinosa,maxD
+LOLA_06,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,108,cm,alive,140,NA,NA,Encelia farinosa,max90D
+LOLA_06,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.1,cm,alive,140,NA,NA,Encelia farinosa,ddh
+LOLA_06,5,7,25,7,JACA,NA,NA,NA,NA,NA,NA,NA,NA,Height,93,cm,alive,140,NA,NA,Jatropha cardiophylla,Height
+LOLA_06,5,7,25,7,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,144,cm,alive,140,NA,NA,Jatropha cardiophylla,maxD
+LOLA_06,5,7,25,7,JACA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,111,cm,alive,140,NA,NA,Jatropha cardiophylla,max90D
+LOLA_06,5,7,25,7,JACA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.5,cm,alive,140,NA,NA,Jatropha cardiophylla,ddh
+LOLA_06,5,7,25,8,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,93,cm,alive,140,NA,NA,Encelia farinosa,Height
+LOLA_06,5,7,25,8,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,95,cm,alive,140,NA,NA,Encelia farinosa,maxD
+LOLA_06,5,7,25,8,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,80,cm,alive,140,NA,NA,Encelia farinosa,max90D
+LOLA_06,5,7,25,8,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.1,cm,alive,140,NA,NA,Encelia farinosa,ddh
+LOLA_06,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,132,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_06,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,10,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_06,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,172,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_06,2,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,155,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,NA,NA,NA,Height,274,cm,alive,NA,NA,NA,Prosopis velutina,Height
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,NA,NA,NA,crownD,341,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,NA,NA,NA,crown90D,322,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,1,NA,NA,ddh,9.5,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,1,NA,NA,dbh,3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,2,NA,NA,ddh,8,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,2,NA,NA,dbh,4,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,3,NA,NA,ddh,9,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+LOLA_06,2,3,25,4,PRVE,NA,NA,NA,NA,3,3,NA,NA,dbh,4,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+LOLA_06,2,3,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,182,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_06,2,3,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,17,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_06,2,3,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,225,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_06,2,3,25,6,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,202,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_06,4,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,4,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,26,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,4,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,4,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,29,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,4,3,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,162,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,258,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_06,4,3,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,65,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+LOLA_06,4,3,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,3,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+LOLA_06,4,3,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,70,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+LOLA_06,4,3,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,33,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+LOLA_06,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,203.5,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_06,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_06,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_06,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_06,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,376,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_06,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_06,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_06,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,6,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_06,6,4,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,27,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,NA,NA,NA,Height,248,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crownD,276,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crown90D,317,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,1,NA,NA,ddh,5.8,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,1,NA,NA,dbh,4,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,2,NA,NA,ddh,12,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,2,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,3,NA,NA,ddh,10,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+LOLA_06,6,4,25,3,PAMI,NA,NA,NA,NA,3,3,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+LOLA_06,7,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,7,4,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,37,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,7,4,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,269,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+LOLA_06,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,370,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_06,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_06,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_06,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+LOLA_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,347.5,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+LOLA_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+LOLA_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,13,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+LOLA_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_01,whole plot,7,NA,1,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,crownD,223,cm,alive,9,NA,NA,Acacia greggii,maxD
+RR_01,whole plot,7,NA,1,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,205,cm,alive,9,NA,NA,Acacia greggii,max90D
+RR_01,whole plot,7,NA,1,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,Height,127,cm,alive,9,NA,NA,Acacia greggii,Height
+RR_01,whole plot,7,NA,1,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,9,NA,NA,Acacia greggii,ddh
+RR_01,whole plot,7,NA,1,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,9,NA,NA,Acacia greggii,dbh
+RR_01,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,120,cm,alive,9,NA,NA,Prosopis velutina,maxD
+RR_01,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,80,cm,alive,9,NA,NA,Prosopis velutina,max90D
+RR_01,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,140,cm,alive,9,NA,NA,Prosopis velutina,Height
+RR_01,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,5,cm,alive,9,NA,NA,Prosopis velutina,ddh
+RR_01,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.3,cm,alive,9,NA,NA,Prosopis velutina,dbh
+RR_01,whole plot,7,NA,3,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crownD,77,cm,alive,9,NA,NA,Dalea albiflora,maxD
+RR_01,whole plot,7,NA,3,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,63,cm,alive,9,NA,NA,Dalea albiflora,max90D
+RR_01,whole plot,7,NA,3,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,Height,90,cm,alive,9,NA,NA,Dalea albiflora,Height
+RR_01,whole plot,7,NA,3,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2,cm,alive,9,NA,NA,Dalea albiflora,ddh
+RR_01,whole plot,7,NA,3,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,9,NA,NA,Dalea albiflora,dbh
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,NA,NA,NA,Height,242.5,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,NA,NA,NA,maxBaseCrownDiameter,65,cm,alive,NA,NA,NA,Prosopis velutina,maxDbase
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,NA,NA,NA,crownD,300,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,NA,NA,NA,crown90D,233,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,1,NA,NA,ddh,6.3,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,1,NA,NA,dbh,2.3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,2,NA,NA,ddh,8.5,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,1,3,10,1,Prosopsis velutina,NA,NA,NA,NA,2,2,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,1,3,10,2,Opuntia englemani,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,1,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,1,3,10,2,Opuntia englemani,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,1,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,2,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,238,cm,alive,NA,elip,NA,Prosopis velutina,Height
+RR_01,2,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,80,cm,alive,NA,elip,NA,Prosopis velutina,maxDbase
+RR_01,2,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,265,cm,alive,NA,elip,NA,Prosopis velutina,maxD
+RR_01,2,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,220,cm,alive,NA,elip,NA,Prosopis velutina,max90D
+RR_01,2,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8.1,cm,alive,NA,elip,NA,Prosopis velutina,ddh
+RR_01,2,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3.6,cm,alive,NA,elip,NA,Prosopis velutina,dbh
+RR_01,2,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,255,cm,dead,NA,elip,NA,Prosopis velutina,Height
+RR_01,2,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,70,cm,dead,NA,elip,NA,Prosopis velutina,maxDbase
+RR_01,2,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,330,cm,dead,NA,elip,NA,Prosopis velutina,maxD
+RR_01,2,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,240,cm,dead,NA,elip,NA,Prosopis velutina,max90D
+RR_01,2,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,dead,NA,elip,NA,Prosopis velutina,ddh
+RR_01,2,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.9,cm,dead,NA,elip,NA,Prosopis velutina,dbh
+RR_01,2,3,10,3,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,50,cm,alive,NA,elip,NA,Ferocactus wislizeni,Height
+RR_01,2,3,10,3,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,45,cm,alive,NA,elip,NA,Ferocactus wislizeni,maxDbase
+RR_01,2,3,10,3,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,elip,NA,Ferocactus wislizeni,EmergentStems
+RR_01,2,3,10,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,201,cm,alive,NA,elip,NA,Prosopis velutina,Height
+RR_01,2,3,10,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,80,cm,alive,NA,elip,NA,Prosopis velutina,maxDbase
+RR_01,2,3,10,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,380,cm,alive,NA,elip,NA,Prosopis velutina,maxD
+RR_01,2,3,10,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,144,cm,alive,NA,elip,NA,Prosopis velutina,max90D
+RR_01,2,3,10,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,alive,NA,elip,NA,Prosopis velutina,ddh
+RR_01,2,3,10,4,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.9,cm,alive,NA,elip,NA,Prosopis velutina,dbh
+RR_01,2,3,10,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,212,cm,dead,NA,elip,NA,Prosopis velutina,Height
+RR_01,2,3,10,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,40,cm,dead,NA,elip,NA,Prosopis velutina,maxDbase
+RR_01,2,3,10,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,294,cm,dead,NA,elip,NA,Prosopis velutina,maxD
+RR_01,2,3,10,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,150,cm,dead,NA,elip,NA,Prosopis velutina,max90D
+RR_01,2,3,10,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8,cm,dead,NA,elip,NA,Prosopis velutina,ddh
+RR_01,2,3,10,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.8,cm,dead,NA,NA,NA,Prosopis velutina,dbh
+RR_01,3,3,10,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,3,3,10,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,NA,NA,NA,crownD,324,cm,alive,NA,sphere,NA,Lycium sp. (2),maxD
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,NA,NA,NA,crown90D,294,cm,alive,NA,sphere,NA,Lycium sp. (2),max90D
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,NA,NA,NA,Height,236,cm,alive,NA,sphere,NA,Lycium sp. (2),Height
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,1,NA,NA,ddh,4,cm,alive,NA,sphere,NA,Lycium sp. (2),ddh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,1,NA,NA,dbh,2,cm,alive,NA,sphere,NA,Lycium sp. (2),dbh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,2,NA,NA,ddh,4,cm,alive,NA,sphere,NA,Lycium sp. (2),ddh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,2,NA,NA,dbh,2,cm,alive,NA,sphere,NA,Lycium sp. (2),dbh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,3,NA,NA,ddh,4,cm,alive,NA,sphere,NA,Lycium sp. (2),ddh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,3,NA,NA,dbh,2,cm,alive,NA,sphere,NA,Lycium sp. (2),dbh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,4,NA,NA,ddh,4,cm,alive,NA,sphere,NA,Lycium sp. (2),ddh
+RR_01,3,3,10,3,Lycium,NA,NA,NA,NA,4,4,NA,NA,dbh,2,cm,alive,NA,sphere,NA,Lycium sp. (2),dbh
+RR_01,4,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,187,cm,alive,NA,sphere,NA,Prosopis velutina,Height
+RR_01,4,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,280,cm,alive,NA,sphere,NA,Prosopis velutina,maxD
+RR_01,4,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,172,cm,alive,NA,sphere,NA,Prosopis velutina,max90D
+RR_01,4,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8.5,cm,alive,NA,sphere,NA,Prosopis velutina,ddh
+RR_01,4,3,10,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1,cm,alive,NA,sphere,NA,Prosopis velutina,dbh
+RR_01,4,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,200,cm,alive,NA,elip,NA,Prosopis velutina,Height
+RR_01,4,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,64,cm,alive,NA,elip,NA,Prosopis velutina,maxDbase
+RR_01,4,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,260,cm,alive,NA,elip,NA,Prosopis velutina,maxD
+RR_01,4,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,200,cm,alive,NA,elip,NA,Prosopis velutina,max90D
+RR_01,4,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,18,cm,alive,NA,elip,NA,Prosopis velutina,ddh
+RR_01,4,3,10,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1,cm,alive,NA,elip,NA,Prosopis velutina,dbh
+RR_01,4,3,10,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,4,3,10,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,4,3,10,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,4,3,10,6,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,52,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,5,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,0,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,5,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,5,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,18,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,5,4,10,2,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,1,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,5,4,10,2,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,5,4,10,2,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,18,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,5,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,Height,142,cm,dead,NA,NA,NA,Prosopis velutina,Height
+RR_01,5,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crownD,164,cm,dead,NA,NA,NA,Prosopis velutina,maxD
+RR_01,5,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,82,cm,dead,NA,NA,NA,Prosopis velutina,max90D
+RR_01,5,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8.5,cm,dead,NA,NA,NA,Prosopis velutina,ddh
+RR_01,5,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2.5,cm,dead,NA,NA,NA,Prosopis velutina,dbh
+RR_01,5,4,10,4,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,0,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,5,4,10,4,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,4,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,5,4,10,4,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,15,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,Height,214,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,30,cm,alive,NA,NA,NA,Prosopis velutina,maxDbase
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crownD,264,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,285,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,2,1,NA,NA,ddh,12.2,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,2,1,NA,NA,dbh,5.3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,2,2,NA,NA,ddh,13.9,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,5,4,10,5,Prosopis velutina,NA,NA,NA,NA,2,2,NA,NA,dbh,2,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,6,4,10,1,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,Height,77,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_01,6,4,10,1,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_01,6,4,10,1,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,crownD,48,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_01,6,4,10,1,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,34,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_01,6,4,10,1,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,2,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_01,6,4,10,2,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,Height,46,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_01,6,4,10,2,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_01,6,4,10,2,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,crownD,16,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_01,6,4,10,2,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,11,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_01,6,4,10,2,Cylindropuntia versicolor,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_01,6,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,Height,291,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,6,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crownD,283,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,6,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,278,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,6,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,ddh,46,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,6,4,10,3,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,dbh,9.1,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,NA,NA,NA,Height,250,cm,alive,NA,NA,NA,Lycium sp. (2),Height
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,NA,NA,NA,crownD,305,cm,alive,NA,NA,NA,Lycium sp. (2),maxD
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,NA,NA,NA,crown90D,300,cm,alive,NA,NA,NA,Lycium sp. (2),max90D
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,1,NA,NA,ddh,3.2,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,1,NA,NA,dbh,1.8,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,2,NA,NA,ddh,3.6,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,2,NA,NA,dbh,1.6,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,3,NA,NA,ddh,1.9,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,3,NA,NA,dbh,1.4,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,4,NA,NA,ddh,2.1,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,4,NA,NA,dbh,1.8,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,5,NA,NA,ddh,2.3,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,5,NA,NA,dbh,1.4,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,6,NA,NA,ddh,2,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_01,6,4,10,4,Lycium spp,NA,NA,NA,NA,6,6,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_01,7,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Old Pad,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,7,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,7,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,39,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,7,4,10,2,Mammillari arahami,NA,NA,NA,NA,NA,NA,NA,NA,Height,11,cm,alive,NA,NA,NA,Mammillaria grahamii,Height
+RR_01,7,4,10,2,Mammillari arahami,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Mammillaria grahamii,maxDbase
+RR_01,7,4,10,2,Mammillari arahami,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,NA,NA,Mammillaria grahamii,EmergentStems
+RR_01,7,4,10,3,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,92,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,7,4,10,3,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,92,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,7,4,10,3,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,141,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,8,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,8,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,8,4,10,1,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,32,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,8,4,10,2,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,1,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,8,4,10,2,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,1,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,8,4,10,2,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,21,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,8,4,10,3,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,8,4,10,3,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,8,4,10,3,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,43,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,8,4,10,4,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,42,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,8,4,10,4,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,New Pad,31,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad2
+RR_01,8,4,10,4,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,79,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,8,4,10,5,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,16,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,8,4,10,5,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,Height,40,cm,alive,NA,NA,NA,Opuntia engelmannii,Height
+RR_01,8,4,10,6,Opuntia englemannii,NA,NA,NA,NA,NA,NA,NA,NA,OldPad,15,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_01,8,4,10,7,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,Height,224,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,8,4,10,7,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,15,cm,alive,NA,NA,NA,Prosopis velutina,maxDbase
+RR_01,8,4,10,7,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crownD,313,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,8,4,10,7,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,249,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,8,4,10,7,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15.75,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,8,4,10,7,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,Height,306,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,40,cm,alive,NA,NA,NA,Prosopis velutina,maxDbase
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crownD,293,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,145,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,2,1,NA,NA,ddh,6,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,2,1,NA,NA,dbh,3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,2,2,NA,NA,ddh,5.5,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,8,4,10,8,Prosopis velutina,NA,NA,NA,NA,2,2,NA,NA,dbh,2.5,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,whole plot,4B,NA,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,200,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,whole plot,4B,NA,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,70,cm,alive,NA,NA,NA,Prosopis velutina,maxDbase
+RR_01,whole plot,4B,NA,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,185,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,whole plot,4B,NA,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,130,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,whole plot,4B,NA,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4.1,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,whole plot,4B,NA,1,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,whole plot,4B,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,179,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,whole plot,4B,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,340,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,whole plot,4B,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,300,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,whole plot,4B,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,whole plot,4B,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.5,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,247,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,70,cm,alive,NA,NA,NA,Prosopis velutina,maxDbase
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,329,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,292,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,2,1,NA,NA,ddh,9.5,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,2,1,NA,NA,dbh,3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,2,2,NA,NA,ddh,11,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_01,whole plot,4B,NA,3,PRVE,NA,NA,NA,NA,2,2,NA,NA,dbh,3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_02,whole plot,7,NA,1,MIAC,NA,NA,NA,NA,NA,NA,NA,NA,Height,110,cm,alive,5,NA,NA,Mimosa aculetecorpa,Height
+RR_02,whole plot,7,NA,1,MIAC,NA,NA,NA,NA,NA,NA,NA,NA,crownD,200,cm,alive,5,NA,NA,Mimosa aculetecorpa,maxD
+RR_02,whole plot,7,NA,1,MIAC,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,125,cm,alive,5,NA,NA,Mimosa aculetecorpa,max90D
+RR_02,whole plot,7,NA,1,MIAC,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,5,NA,NA,Mimosa aculetecorpa,dbh
+RR_02,whole plot,7,NA,1,MIAC,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,5,NA,NA,Mimosa aculetecorpa,ddh
+RR_02,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,143,cm,alive,5,NA,NA,Prosopis velutina,Height
+RR_02,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,190,cm,alive,5,NA,NA,Prosopis velutina,maxD
+RR_02,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,170,cm,alive,5,NA,NA,Prosopis velutina,max90D
+RR_02,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.3,cm,alive,5,NA,NA,Prosopis velutina,dbh
+RR_02,whole plot,7,NA,2,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,5,NA,NA,Prosopis velutina,ddh
+RR_02,whole plot,7,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,117,cm,alive,5,NA,NA,Prosopis velutina,Height
+RR_02,whole plot,7,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,122,cm,alive,5,NA,NA,Prosopis velutina,maxD
+RR_02,whole plot,7,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,100,cm,alive,5,NA,NA,Prosopis velutina,max90D
+RR_02,whole plot,7,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,5,NA,NA,Prosopis velutina,dbh
+RR_02,whole plot,7,NA,3,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,3,cm,alive,5,NA,NA,Prosopis velutina,ddh
+RR_02,1,3,NA,1A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,14,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,2A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,9,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,3A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,4A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,5A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,4,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,6A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,1,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,7A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,1,3,NA,8A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,286,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_02,1,3,NA,8A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,29,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_02,1,3,NA,8A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,49,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_02,1,3,NA,8A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,10,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_02,1,3,NA,9A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,385,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_02,1,3,NA,9A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,21,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_02,1,3,NA,9A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,20,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_02,1,3,NA,9A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,9,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_02,1,3,NA,10A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,211,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_02,1,3,NA,10A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_02,1,3,NA,10A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_02,1,3,NA,10A,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,6,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_02,2,3,NA,1B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,2,3,NA,3B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,22,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,2,3,NA,4B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,2,3,NA,5B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,27,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,2,3,NA,6B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,10,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,2,3,NA,7B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,52,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,2,3,NA,8B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,93,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_02,2,3,NA,8B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_02,2,3,NA,8B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_02,2,3,NA,8B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,94,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_02,2,3,NA,8B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,63,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_02,2,3,NA,9B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,133,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_02,2,3,NA,9B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_02,2,3,NA,9B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_02,2,3,NA,9B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,92,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_02,2,3,NA,9B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,88,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_02,2,3,NA,10B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,95,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_02,2,3,NA,10B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_02,2,3,NA,10B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_02,2,3,NA,10B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,72,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_02,2,3,NA,10B,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,44,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_02,3,3,NA,1C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,9,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,3,3,NA,2C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,20,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,3,3,NA,3C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,93,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_02,3,3,NA,3C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,109,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_02,3,3,NA,3C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,56,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_02,3,3,NA,4C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,9,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,3,3,NA,5C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,20,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,3,3,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,311,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_02,3,3,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_02,3,3,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_02,3,3,NA,6C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,11,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_02,3,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,122,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_02,3,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_02,3,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_02,3,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,9,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,MaxHeight,259,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,MeasurementHeight,30,cm,alive,NA,NA,NA,Prosopis velutina,MeasurementHeight
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,crownD,300,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,crown90D,365,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,1,NA,NA,ddh,9,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,1,NA,NA,dbh,4,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,2,NA,NA,ddh,9,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_02,3,3,NA,8C,PRVE,NA,NA,NA,NA,2,2,NA,NA,dbh,2.8,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_02,3,3,NA,9C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,314,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_02,3,3,NA,9C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,MeasurementHeight,77,cm,alive,NA,NA,NA,Prosopis velutina,MeasurementHeight
+RR_02,3,3,NA,9C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,318,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_02,3,3,NA,9C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,220,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_02,3,3,NA,9C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,10,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_02,3,3,NA,9C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,5,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_02,3,3,NA,10C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,95,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_02,3,3,NA,10C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_02,3,3,NA,10C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_02,3,3,NA,10C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,79,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_02,3,3,NA,10C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_02,4,3,NA,1D,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,341,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_02,4,3,NA,1D,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_02,4,3,NA,1D,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_02,4,3,NA,1D,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,7,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_02,4,3,NA,2D,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_02,4,3,NA,3D,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,140,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_02,4,3,NA,3D,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,10,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_02,4,3,NA,3D,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,8,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90Dbase
+RR_02,4,3,NA,3D,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,153,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_02,4,3,NA,3D,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,111,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_03,whole plot,7,NA,6D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,Height,125,cm,alive,49,NA,NA,Dalea albiflora,Height
+RR_03,whole plot,7,NA,6D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crownD,200,cm,alive,49,NA,NA,Dalea albiflora,maxD
+RR_03,whole plot,7,NA,6D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,153,cm,alive,49,NA,NA,Dalea albiflora,max90D
+RR_03,whole plot,7,NA,6D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,49,NA,NA,Dalea albiflora,dbh
+RR_03,whole plot,7,NA,6D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,ddh,3,cm,alive,49,NA,NA,Dalea albiflora,ddh
+RR_03,whole plot,7,NA,7D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,Height,70,cm,alive,49,NA,NA,Dalea albiflora,Height
+RR_03,whole plot,7,NA,7D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crownD,113,cm,alive,49,NA,NA,Dalea albiflora,maxD
+RR_03,whole plot,7,NA,7D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,123,cm,alive,49,NA,NA,Dalea albiflora,max90D
+RR_03,whole plot,7,NA,7D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,49,NA,NA,Dalea albiflora,dbh
+RR_03,whole plot,7,NA,7D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.5,cm,alive,49,NA,NA,Dalea albiflora,ddh
+RR_03,whole plot,7,NA,8D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,Height,109,cm,alive,49,NA,NA,Dalea albiflora,Height
+RR_03,whole plot,7,NA,8D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crownD,89,cm,alive,49,NA,NA,Dalea albiflora,maxD
+RR_03,whole plot,7,NA,8D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,70,cm,alive,49,NA,NA,Dalea albiflora,max90D
+RR_03,whole plot,7,NA,8D,DAAL,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2,cm,alive,49,NA,NA,Dalea albiflora,ddh
+RR_03,whole plot,3,NA,1A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,2A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,3A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,9,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,4A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,48,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,5A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,6A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,27,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,7A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,8A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,9A,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,230,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_03,whole plot,3,NA,9A,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,410,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_03,whole plot,3,NA,9A,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,395,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_03,whole plot,3,NA,9A,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,36.7,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_03,whole plot,3,NA,9A,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3.5,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_03,whole plot,3,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,65,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_03,whole plot,3,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,MeasurementHeight,43,cm,alive,NA,NA,NA,Cylindropuntia versicolor,MeasurementHeight
+RR_03,whole plot,3,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,14,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_03,whole plot,3,NA,10A,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,13,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_03,whole plot,3,NA,1B,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,240,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_03,whole plot,3,NA,1B,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,390,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_03,whole plot,3,NA,1B,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,305,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_03,whole plot,3,NA,1B,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,15.8,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_03,whole plot,3,NA,1B,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2.1,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_03,whole plot,3,NA,2B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,3B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,Height,55,cm,alive,NA,NA,NA,Dasylirion wheeleri,Height
+RR_03,whole plot,3,NA,3B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crownD,100,cm,alive,NA,NA,NA,Dasylirion wheeleri,maxD
+RR_03,whole plot,3,NA,3B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,50,cm,alive,NA,NA,NA,Dasylirion wheeleri,max90D
+RR_03,whole plot,3,NA,4B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,Height,90,cm,alive,NA,NA,NA,Dasylirion wheeleri,Height
+RR_03,whole plot,3,NA,4B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crownD,132,cm,alive,NA,NA,NA,Dasylirion wheeleri,maxD
+RR_03,whole plot,3,NA,4B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,152,cm,alive,NA,NA,NA,Dasylirion wheeleri,max90D
+RR_03,whole plot,3,NA,5B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,10,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,6B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,Height,30,cm,dead,NA,NA,NA,Dasylirion wheeleri,Height
+RR_03,whole plot,3,NA,6B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crownD,161,cm,dead,NA,NA,NA,Dasylirion wheeleri,maxD
+RR_03,whole plot,3,NA,6B,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,131,cm,dead,NA,NA,NA,Dasylirion wheeleri,max90D
+RR_03,whole plot,3,NA,7B,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,65,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+RR_03,whole plot,3,NA,7B,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,39,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+RR_03,whole plot,3,NA,7B,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,39,cm,alive,NA,NA,NA,Ferocactus wislizeni,max90D
+RR_03,whole plot,3,NA,8B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,9B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,10B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,26,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,1C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,350,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_03,whole plot,3,NA,1C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_03,whole plot,3,NA,1C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_03,whole plot,3,NA,1C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_03,whole plot,3,NA,2C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,3C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,281,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_03,whole plot,3,NA,3C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,410,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_03,whole plot,3,NA,3C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,322,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_03,whole plot,3,NA,3C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,20,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_03,whole plot,3,NA,3C,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,5.2,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_03,whole plot,3,NA,4C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,5C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,28,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_03,whole plot,3,NA,6C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,129,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_03,whole plot,3,NA,6C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,147,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_03,whole plot,3,NA,6C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,90,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_03,whole plot,3,NA,6C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,dead,NA,NA,NA,Cylindropuntia versicolor,ddh
+RR_03,whole plot,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,295,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_03,whole plot,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,20,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_03,whole plot,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,13,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_03,whole plot,3,NA,7C,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,Height,190,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,crownD,290,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,NA,NA,NA,crown90D,190,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,1,NA,NA,ddh,7,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,1,NA,NA,dbh,1.3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,2,NA,NA,ddh,4.9,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_03,whole plot,3,NA,8C,PRVE,NA,NA,NA,NA,2,2,NA,NA,dbh,1,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_03,whole plot,3,NA,9C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,231,cm,dead,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_03,whole plot,3,NA,9C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,268,cm,dead,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_03,whole plot,3,NA,9C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,230,cm,dead,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_03,whole plot,3,NA,9C,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,13.5,cm,dead,NA,NA,NA,Cylindropuntia versicolor,ddh
+RR_03,whole plot,3,NA,10C,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,Height,118,cm,alive,NA,NA,NA,Dasylirion wheeleri,Height
+RR_03,whole plot,3,NA,10C,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crownD,170,cm,alive,NA,NA,NA,Dasylirion wheeleri,maxD
+RR_03,whole plot,3,NA,10C,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,156,cm,alive,NA,NA,NA,Dasylirion wheeleri,max90D
+RR_03,whole plot,3,NA,1D,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,Height,118,cm,alive,NA,NA,NA,Dasylirion wheeleri,Height
+RR_03,whole plot,3,NA,1D,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crownD,140,cm,alive,NA,NA,NA,Dasylirion wheeleri,maxD
+RR_03,whole plot,3,NA,1D,DAWH,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,135,cm,alive,NA,NA,NA,Dasylirion wheeleri,max90D
+RR_04,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,197,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_04,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,distance,3.8,m,alive,NA,NA,NA,Carnegiea gigantea,Distance
+RR_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,28,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,AlphaUp,33.5,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaUp
+RR_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,AlphaDown,28.5,NA,alive,NA,NA,NA,Carnegiea gigantea,AlphaDown
+RR_04,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,458,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_04,whole plot,7,NA,1,Thornless Acacia,NA,NA,NA,NA,NA,NA,NA,NA,Height,142,cm,alive,99,NA,NA,Acacia sp. (unarmed),Height
+RR_04,whole plot,7,NA,1,Thornless Acacia,NA,NA,NA,NA,NA,NA,NA,NA,crownD,254,cm,alive,99,NA,NA,Acacia sp. (unarmed),maxD
+RR_04,whole plot,7,NA,1,Thornless Acacia,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,165,cm,alive,99,NA,NA,Acacia sp. (unarmed),max90D
+RR_04,whole plot,7,NA,1,Thornless Acacia,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.25,cm,alive,99,NA,NA,Acacia sp. (unarmed),dbh
+RR_04,whole plot,7,NA,1,Thornless Acacia,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2,cm,alive,99,NA,NA,Acacia sp. (unarmed),ddh
+RR_04,whole plot,7,NA,2,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,Height,52,cm,alive,99,NA,NA,Encelia farinosa,Height
+RR_04,whole plot,7,NA,2,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,crownD,139,cm,alive,99,NA,NA,Encelia farinosa,maxD
+RR_04,whole plot,7,NA,2,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,92,cm,alive,99,NA,NA,Encelia farinosa,max90D
+RR_04,whole plot,7,NA,2,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,99,NA,NA,Encelia farinosa,dbh
+RR_04,whole plot,7,NA,2,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2,cm,alive,99,NA,NA,Encelia farinosa,ddh
+RR_04,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,Height,76,cm,alive,99,NA,NA,Encelia farinosa,Height
+RR_04,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,crownD,105,cm,alive,99,NA,NA,Encelia farinosa,maxD
+RR_04,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,103,cm,alive,99,NA,NA,Encelia farinosa,max90D
+RR_04,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,99,NA,NA,Encelia farinosa,dbh
+RR_04,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.5,cm,alive,99,NA,NA,Encelia farinosa,ddh
+RR_04,1,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,1,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,32,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,1,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,1,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,64,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,1,3,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,1,3,25,6,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,15,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,1,3,25,7,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,157,cm,dead,NA,NA,NA,Prosopis velutina,Height
+RR_04,1,3,25,7,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,153,cm,dead,NA,NA,NA,Prosopis velutina,maxD
+RR_04,1,3,25,7,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,130,cm,dead,NA,NA,NA,Prosopis velutina,max90D
+RR_04,1,3,25,7,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14.5,cm,dead,NA,NA,NA,Prosopis velutina,ddh
+RR_04,1,3,25,7,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,3.75,cm,dead,NA,NA,NA,Prosopis velutina,dbh
+RR_04,2,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,25,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,2,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,2,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,2,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,2,3,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,28,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,364,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,3,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,6,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,3,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,3,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,3,3,25,4,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,40,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+RR_04,3,3,25,4,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,40,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+RR_04,3,3,25,4,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,90maxD,42,cm,alive,NA,NA,NA,Ferocactus wislizeni,max90D
+RR_04,3,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,265,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,3,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,17,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,3,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,3,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,3,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,180,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,3,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,3,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,3,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,3,3,25,10,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,248,cm,alive,NA,NA,NA,Lycium sp. (2),maxD
+RR_04,3,3,25,10,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,231,cm,alive,NA,NA,NA,Lycium sp. (2),max90D
+RR_04,3,3,25,10,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_04,3,3,25,10,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.1,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_04,4,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,67,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,4,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,18,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,4,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,290,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,7,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,317,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,17,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,5,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,6,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,53,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_04,6,4,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_04,7,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,98,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,7,4,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,2,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,7,4,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,57,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,7,4,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,7,4,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,13,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_04,7,4,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,226,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,7,4,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,7,4,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,7,4,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,7,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,125,cm,alive,NA,sphere,NA,Cylindropuntia versicolor,Height
+RR_04,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,164,cm,alive,NA,sphere,NA,Cylindropuntia versicolor,maxD
+RR_04,7,4,25,7,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,120,cm,alive,NA,sphere,NA,Cylindropuntia versicolor,max90Dbase
+RR_04,7,4,25,8,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,127,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_04,7,4,25,8,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_04,7,4,25,8,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,125,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_04,7,4,25,8,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,97,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_04,7,4,25,9,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,42,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+RR_04,7,4,25,9,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,40,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+RR_04,7,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,293,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,7,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,7,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,7,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,9,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,205,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,8,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_04,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,326,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_04,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_04,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_04,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,10,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,156,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_05,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_05,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,130,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_05,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,10,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_05,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,70,cm,alive,94,NA,NA,Encelia farinosa,Height
+RR_05,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,94,cm,alive,94,NA,NA,Encelia farinosa,maxD
+RR_05,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,61,cm,alive,94,NA,NA,Encelia farinosa,max90D
+RR_05,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,94,NA,NA,Encelia farinosa,dbh
+RR_05,whole plot,7,NA,1,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,94,NA,NA,Encelia farinosa,ddh
+RR_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,Height,137,cm,alive,94,NA,NA,Lycium sp. (2),Height
+RR_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,195,cm,alive,94,NA,NA,Lycium sp. (2),maxD
+RR_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,119,cm,alive,94,NA,NA,Lycium sp. (2),max90D
+RR_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,94,NA,NA,Lycium sp. (2),dbh
+RR_05,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,3,cm,alive,94,NA,NA,Lycium sp. (2),ddh
+RR_05,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,87,cm,alive,94,NA,NA,Encelia farinosa,Height
+RR_05,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,110,cm,alive,94,NA,NA,Encelia farinosa,maxD
+RR_05,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,140,cm,alive,94,NA,NA,Encelia farinosa,max90D
+RR_05,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,94,NA,NA,Encelia farinosa,dbh
+RR_05,whole plot,7,NA,3,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,94,NA,NA,Encelia farinosa,ddh
+RR_05,1,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,6,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,15,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,7,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,8,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,14,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,1,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,330,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,1,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,1,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,1,3,25,9,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,1,3,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,299,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,1,3,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,1,3,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,3,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,1,3,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,2,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,MaxHeight,108,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_05,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_05,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,137,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_05,2,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,111,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_05,2,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,26,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,2,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,2,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,264,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,2,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,16,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,2,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,13,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,2,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,2,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,425,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,2,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,17,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,2,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,2,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,3,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,3,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,9,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,3,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,3,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,3,3,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,30,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,3,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,316,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,3,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,3,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,3,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,3,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,274,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,3,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,3,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,3,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,5,4,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,65,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+RR_05,5,4,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,38,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+RR_05,5,4,25,1,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,max90D,36,cm,alive,NA,NA,NA,Ferocactus wislizeni,max90D
+RR_05,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,371,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,371,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,17,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,6,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,161,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,6,4,25,3,FEWI,NA,NA,NA,NA,2,NA,NA,NA,Height,57,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+RR_05,6,4,25,3,FEWI,NA,NA,NA,NA,2,1,NA,NA,max90D,30,cm,alive,NA,NA,NA,Ferocactus wislizeni,max90D
+RR_05,6,4,25,3,FEWI,NA,NA,NA,NA,2,2,NA,NA,MaxDiameter,36,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+RR_05,6,4,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,417,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,6,4,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,6,4,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,6,4,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,6,4,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,297,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,6,4,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,6,4,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,6,4,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,246,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,16,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,284,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,7,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_05,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,65,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_05,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,1.5,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_05,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,51,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_05,7,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,30,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_05,8,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,4,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,20,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,12,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,6,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,7,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,95,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,8,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,18,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_05,8,4,25,9,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crownD,240,cm,alive,NA,NA,NA,Lycium sp. (2),maxD
+RR_05,8,4,25,9,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,210,cm,alive,NA,NA,NA,Lycium sp. (2),max90D
+RR_05,8,4,25,9,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,NA,NA,NA,Lycium sp. (2),ddh
+RR_05,8,4,25,9,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2,cm,alive,NA,NA,NA,Lycium sp. (2),dbh
+RR_05,8,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,451,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_05,8,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,16,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_05,8,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,13,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_05,8,4,25,10,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,whole plot,7,NA,1,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,Height,92,cm,alive,89,NA,NA,Encelia farinosa,Height
+RR_06,whole plot,7,NA,1,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,maxc,102,cm,alive,89,NA,NA,Encelia farinosa,maxD
+RR_06,whole plot,7,NA,1,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,90maxc,98,cm,alive,89,NA,NA,Encelia farinosa,max90D
+RR_06,whole plot,7,NA,1,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,89,NA,NA,Encelia farinosa,dbh
+RR_06,whole plot,7,NA,1,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.8,cm,alive,89,NA,NA,Encelia farinosa,ddh
+RR_06,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,Height,155,cm,alive,89,NA,NA,Lycium sp. (2),Height
+RR_06,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,maxc,110,cm,alive,89,NA,NA,Lycium sp. (2),maxD
+RR_06,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,90maxc,100,cm,alive,89,NA,NA,Lycium sp. (2),max90D
+RR_06,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,89,NA,NA,Lycium sp. (2),dbh
+RR_06,whole plot,7,NA,2,Lycium sp 2,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.1,cm,alive,89,NA,NA,Lycium sp. (2),ddh
+RR_06,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,Height,80,cm,alive,89,NA,NA,Encelia farinosa,Height
+RR_06,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,maxc,135,cm,alive,89,NA,NA,Encelia farinosa,maxD
+RR_06,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,90maxc,87,cm,alive,89,NA,NA,Encelia farinosa,max90D
+RR_06,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,dbh,0.1,cm,alive,89,NA,NA,Encelia farinosa,dbh
+RR_06,whole plot,7,NA,3,Encilia farinosa,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1.5,cm,alive,89,NA,NA,Encelia farinosa,ddh
+RR_06,1,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,14,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,1,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,18,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,1,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,50,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,1,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,260,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,1,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,1,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,1,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,1,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,238,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,1,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,1,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,1,3,25,5,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,1,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,236,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,1,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,1,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,1,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,2,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,8,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,2,3,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,22,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,2,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,20,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,2,3,25,4,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,65,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,2,3,25,5,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,13,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,2,3,25,6,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,214,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_06,2,3,25,6,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,360,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_06,2,3,25,6,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,160,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_06,2,3,25,6,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_06,2,3,25,6,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,1.2,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_06,2,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,200,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,2,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,2,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,2,3,25,7,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,3,3,25,1A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,3,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,3,3,25,1B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,3,3,25,1C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,7,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,3,3,25,1D,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,15,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,3,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,190,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_06,3,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,15,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_06,3,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,254,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_06,3,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,250,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_06,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,318,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,8.5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,3,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,3,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,338,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,3,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,3,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,3,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,3,3,25,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,342,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_06,3,3,25,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,500,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_06,3,3,25,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,495,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_06,3,3,25,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,28,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_06,3,3,25,5,PRVE,NA,NA,NA,NA,NA,NA,NA,NA,dbh,7.7,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_06,4,3,25,1A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,109,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,72,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,153,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1D,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1E,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1F,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,62,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1G,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,6,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1H,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,21,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1I,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,73,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,1J,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,95,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,361,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,4,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,8,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,4,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,191,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,4,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,4,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,4,3,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,5,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,337,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,4,3,25,4,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,6,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,NA,NA,NA,Height,219,cm,alive,NA,NA,NA,Prosopis velutina,Height
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,NA,NA,NA,crownD,390,cm,alive,NA,NA,NA,Prosopis velutina,maxD
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,NA,NA,NA,crown90D,267,cm,alive,NA,NA,NA,Prosopis velutina,max90D
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,1,NA,NA,ddh,13.5,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,1,NA,NA,dbh,3,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,2,NA,NA,ddh,16,cm,alive,NA,NA,NA,Prosopis velutina,ddh
+RR_06,4,3,25,5,PRVE,NA,NA,NA,NA,2,2,NA,NA,dbh,2,cm,alive,NA,NA,NA,Prosopis velutina,dbh
+RR_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,311,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,4,3,25,6,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,cm,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,5,4,25,1A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,80,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,5,4,25,1B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,19,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,5,4,25,1C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,238,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,5,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,5,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,50,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_06,5,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,27,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_06,5,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,26,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_06,5,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,1,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_06,6,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,33,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,235,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,6,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,8,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,10,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,396,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,11,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,3,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,8,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,146,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_06,8,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,259,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_06,8,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,160,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_06,8,4,25,3,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9,cm,alive,NA,NA,NA,Cylindropuntia versicolor,ddh
+RR_06,7,4,25,1A,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,17,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,7,4,25,1B,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,13,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,7,4,25,1C,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,14,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,7,4,25,1D,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,10,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,7,4,25,1E,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,68,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,7,4,25,1F,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,16,NA,NA,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_06,7,4,25,2,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,Height,58,cm,alive,NA,NA,NA,Ferocactus wislizeni,Height
+RR_06,7,4,25,2,FEWI,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,42,cm,alive,NA,NA,NA,Ferocactus wislizeni,maxD
+RR_06,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,359,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_06,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,18,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_06,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,12,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_06,7,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,6,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_06,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,137,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_06,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,7,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_06,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,152,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_06,7,4,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,80,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_07,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,4,NA,Height,495,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,4,NA,ddh,26.1,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,4,1,ArmLength1,93,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+RR_07,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,4,2,ArmLength2,78,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+RR_07,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,4,3,ArmLength3,70,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength3
+RR_07,whole plot,1,NA,1,CAGI,NA,NA,NA,NA,NA,NA,4,4,ArmLength4,72,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength4
+RR_07,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,249.5,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,2,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,400,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,24.2,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,440,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,29.8,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,269.5,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16.7,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,283,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,16,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,3,NA,Height,440,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,3,NA,ddh,25,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,3,1,ArmLength1,40,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+RR_07,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,3,2,ArmLength2,65,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+RR_07,whole plot,1,NA,7,CAGI,NA,NA,NA,NA,NA,NA,3,3,ArmLength3,88,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength3
+RR_07,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,125,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,14.9,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,2,NA,Height,524.8,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,2,NA,ddh,33,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,2,1,ArmLength1,58,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+RR_07,whole plot,1,NA,9,CAGI,NA,NA,NA,NA,NA,NA,2,2,ArmLength2,113,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength2
+RR_07,whole plot,1,NA,10,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,148,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,10,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,24,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,230,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,whole plot,1,NA,11,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,17.4,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,5,7,25,5,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,Height,84,cm,alive,102,NA,NA,Acacia greggii,Height
+RR_07,5,7,25,5,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,crownD,200,cm,alive,102,NA,NA,Acacia greggii,maxD
+RR_07,5,7,25,5,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,196,cm,alive,102,NA,NA,Acacia greggii,max90D
+RR_07,5,7,25,5,ACGR,NA,NA,NA,NA,NA,NA,NA,NA,ddh,2.7,cm,alive,102,NA,NA,Acacia greggii,ddh
+RR_07,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,101,cm,alive,102,NA,NA,Encelia farinosa,Height
+RR_07,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,135,cm,alive,102,NA,NA,Encelia farinosa,maxD
+RR_07,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,102,cm,alive,102,NA,NA,Encelia farinosa,max90D
+RR_07,5,7,25,6,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,102,NA,NA,Encelia farinosa,ddh
+RR_07,5,7,25,7,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,Height,88,cm,alive,102,NA,NA,Encelia farinosa,Height
+RR_07,5,7,25,7,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crownD,75,cm,alive,102,NA,NA,Encelia farinosa,maxD
+RR_07,5,7,25,7,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,45,cm,alive,102,NA,NA,Encelia farinosa,max90D
+RR_07,5,7,25,7,ENFA,NA,NA,NA,NA,NA,NA,NA,NA,ddh,1,cm,alive,102,NA,NA,Encelia farinosa,ddh
+RR_07,1,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,450,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_07,1,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,14,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_07,1,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_07,1,3,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,2,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_07,2,3,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,72,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,NA,NA,NA,Height,254,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crownD,250,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,NA,NA,NA,crown90D,217.2,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,1,NA,NA,ddh,5.3,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,1,NA,NA,dbh,2.2,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,2,NA,NA,ddh,8.2,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+RR_07,2,3,25,2,PAMI,NA,NA,NA,NA,2,2,NA,NA,dbh,2.4,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+RR_07,2,3,25,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,56,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,2,3,25,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,5,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,2,3,25,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,52,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,2,3,25,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,3,3,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,60,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,3,3,25,1,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,6,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,3,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,320,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_07,3,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_07,3,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,6,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_07,3,3,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_07,3,3,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,63,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_07,3,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,132,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_07,3,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_07,3,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,105,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_07,3,3,25,4,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,141,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_07,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,137,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_07,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,11,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_07,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,198,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_07,4,3,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,120,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_07,4,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,170,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_07,4,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,12,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_07,4,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,200,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_07,4,3,25,2,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,229,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_07,4,3,25,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,75,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,4,3,25,3,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,9,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,4,3,25,4,CAGI,NA,NA,NA,NA,1,NA,NA,NA,Height,44,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,4,3,25,4,CAGI,NA,NA,NA,NA,1,NA,NA,NA,ddh,8,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,4,3,25,4,CAGI,NA,NA,NA,NA,NA,NA,1,1,ArmLength1,37,cm,alive,NA,NA,NA,Carnegiea gigantea,ArmLength1
+RR_07,4,3,25,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,100,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,4,3,25,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,12,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,4,3,25,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,120,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,4,3,25,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,13,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,4,3,25,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,39,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,4,3,25,7,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,4,3,25,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,124,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,4,3,25,8,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,11,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,5,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,Height,61,cm,alive,NA,NA,NA,Cylindropuntia versicolor,Height
+RR_07,5,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxDbase
+RR_07,5,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crownD,219,cm,alive,NA,NA,NA,Cylindropuntia versicolor,maxD
+RR_07,5,4,25,1,CYVE,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,206,cm,alive,NA,NA,NA,Cylindropuntia versicolor,max90D
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,Height,285.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crownD,368,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,NA,NA,NA,crown90D,249,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,1,NA,NA,ddh,12,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,1,NA,NA,dbh,5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,2,NA,NA,ddh,10,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,2,NA,NA,dbh,3,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,3,NA,NA,ddh,6,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+RR_07,6,4,25,1,PAMI,NA,NA,NA,NA,3,3,NA,NA,dbh,5.5,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+RR_07,6,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,280,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_07,6,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,6.5,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_07,6,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,4.5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_07,6,4,25,3,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_07,6,4,25,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,35,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,6,4,25,4,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,6,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,6,4,25,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,43,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,6,4,25,5,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,8,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,6,4,25,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,Height,42,cm,alive,NA,NA,NA,Carnegiea gigantea,Height
+RR_07,6,4,25,6,CAGI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,7,cm,alive,NA,NA,NA,Carnegiea gigantea,ddh
+RR_07,6,4,25,7,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,11,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_07,6,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,Height,214,cm,alive,NA,NA,NA,Parkinsonia microphylla,Height
+RR_07,6,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crownD,156,cm,alive,NA,NA,NA,Parkinsonia microphylla,maxD
+RR_07,6,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,crown90D,182,cm,alive,NA,NA,NA,Parkinsonia microphylla,max90D
+RR_07,6,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,ddh,4,cm,alive,NA,NA,NA,Parkinsonia microphylla,ddh
+RR_07,6,4,25,8,PAMI,NA,NA,NA,NA,NA,NA,NA,NA,dbh,2.3,cm,alive,NA,NA,NA,Parkinsonia microphylla,dbh
+RR_07,6,4,25,9,MAGR,NA,NA,NA,NA,NA,NA,NA,NA,Height,12,cm,alive,NA,NA,NA,Mammillaria grahamii,Height
+RR_07,6,4,25,9,MAGR,NA,NA,NA,NA,NA,NA,NA,NA,MaxDiameter,5,cm,alive,NA,NA,NA,Mammillaria grahamii,maxD
+RR_07,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,440,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_07,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,9,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_07,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,10,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_07,7,4,25,1,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,4,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_07,7,4,25,2,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,16,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_07,7,4,25,1,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,5,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad
+RR_07,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,Height,382.5,cm,alive,NA,NA,NA,Fouquieria splendens,Height
+RR_07,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,maxBaseCrownDiameter,8,cm,alive,NA,NA,NA,Fouquieria splendens,maxDbase
+RR_07,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,ninetyBaseCrownDiameter,5,cm,alive,NA,NA,NA,Fouquieria splendens,max90Dbase
+RR_07,8,4,25,2,FOSP,NA,NA,NA,NA,NA,NA,NA,NA,EmergentStems,1,NA,alive,NA,NA,NA,Fouquieria splendens,EmergentStems
+RR_07,8,4,25,3,OPEN,NA,NA,NA,NA,NA,NA,NA,NA,OP,10,NA,alive,NA,NA,NA,Opuntia engelmannii,OldPad

@@ -1,0 +1,31 @@
+term,estimate,std.error,statistic,p.value,response
+(Intercept),0.472,0.013,36.782,0,evennness
+PECI_coverZ,-0.193,0.009,-22.269,0,evennness
+fSiteRR,0.059,0.025,2.38,0.041,evennness
+PECI_coverZ:fSiteRR,0.168,0.015,10.876,0,evennness
+(Intercept),24.048,0.642,37.47,0,richness
+PECI_coverZ,-1.741,0.412,-4.226,0.002,richness
+fSiteRR,7.94,1.919,4.137,0.003,richness
+PECI_coverZ:fSiteRR,0.654,1.093,0.598,0.565,richness
+(Intercept),1.496,0.041,36.269,0,shannon
+PECI_coverZ,-0.622,0.029,-21.374,0,shannon
+fSiteRR,0.378,0.064,5.879,0,shannon
+PECI_coverZ:fSiteRR,0.499,0.039,12.645,0,shannon
+(Intercept),3.289,0.206,15.941,0,log(herbaceous_C + 1)
+PECI_cv,0.045,0.006,7.959,0,log(herbaceous_C + 1)
+siteRR,0.978,0.268,3.653,0.005,log(herbaceous_C + 1)
+PECI_cv:siteRR,-0.023,0.008,-2.915,0.017,log(herbaceous_C + 1)
+(Intercept),1696.646,37.134,45.689,0,ecosystem_c
+PECI_coverZ,152.756,45.386,3.366,0.008,ecosystem_c
+fSiteRR,-53.3,322.025,-0.166,0.872,ecosystem_c
+PECI_coverZ:fSiteRR,91.717,412.513,0.222,0.829,ecosystem_c
+(Intercept),1475.123,61.094,24.145,0,soil_c
+PECI_coverZ,27.709,72.902,0.38,0.713,soil_c
+fSiteRR,-46.486,303.655,-0.153,0.882,soil_c
+PECI_coverZ:fSiteRR,99.109,386.37,0.257,0.803,soil_c
+(Intercept),84.5,16.914,4.996,0.002,woody_c
+"poly(PECI_coverZ, 2)1",-114.578,49.945,-2.294,0.055,woody_c
+"poly(PECI_coverZ, 2)2",-204.705,65.279,-3.136,0.016,woody_c
+siteRR,-29.385,22.525,-1.305,0.233,woody_c
+"poly(PECI_coverZ, 2)1:siteRR",80.016,69.953,1.144,0.29,woody_c
+"poly(PECI_coverZ, 2)2:siteRR",123.625,82.615,1.496,0.178,woody_c

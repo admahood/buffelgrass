@@ -1,17 +1,15 @@
-# sem script
+# data prep script
 library(tidyverse)
-library(lavaan)
-library(lme4)
-library(lmerTest)
-library(mgcv)
-source("R/ggplot_sem.R")
-
+write_to_csv <- FALSE
+# folded aspect function
 get_folded_aspect<-function(aspect){
   180 - abs(aspect-180)
 }
+
+# read in weighted C data frame
 weighted_c <- read_csv("data/weighted_carbon.csv")
 
-
+# read in and join several data frames, renaming as necessary or appropriate
 d <- read_csv("data/AGB_woody_biomass.csv") %>%
   left_join(read_csv("data/Biodiversity.csv")) %>%
   left_join(read_csv("data/cover.csv")) %>%
@@ -28,6 +26,7 @@ d <- read_csv("data/AGB_woody_biomass.csv") %>%
   dplyr::rename(other_cover = `Other cover (%)`,
                 bare_cover = `Bare ground (%)`,
                 woody_c_g_m2 = TotalC_g_m2) %>%
+  # creating total cover and folded aspect columns, making plot a factor
   mutate(total_cover = other_cover + PECI_cover,
          fa = get_folded_aspect(aspect),
          plot = as.factor(plot)) %>%
@@ -40,162 +39,13 @@ d <- read_csv("data/AGB_woody_biomass.csv") %>%
                 other_SOC = other_SOC_g_m2) %>%
   left_join(x=weighted_c %>% dplyr::select(-site, -plot, -bare_cover),
             y=., by = "site_plot") %>%
+  # creating a slope * folded aspect column
   mutate(slope_aspect = fa * slope) %>% 
-  dplyr::rename(soil_TC = weighted_TC_gC_m2) %>%
-  mutate_if(is.numeric, scale)
+  dplyr::rename(soil_TC = weighted_TC_gC_m2)
 
-write_csv(d, "data/env_data_cleanish.csv")
+# decide whether to write the data frame to a csv  
+# write_to_csv <- askYesNo("Do you want to write the data frame to a csv?")  
+if (write_to_csv) {  
+ write_csv(d, "data/env_data_cleanish.csv")
+}
 
-# univariate models ============================================================
-mod_simpson <- lm(simpson ~ PECI_cv + 
-                      herb_C + 
-                      fa+site, d);summary(mod_simpson);car::Anova(mod_simpson)
-
-# mod_shannon <- lmer(shannon ~ PECI_cv + fa+(1|site), d, REML=F);summary(mod_shannon)
-# mod_richness <- glmer(richness ~ PECI_cv+ fa+(1|site), d, family="poisson");summary(mod_richness)
-# mod_evenness <- lmer(evenness ~ PECI_cv+ fa+(1|site), d, REML=F);summary(mod_evenness)
-mod_tc <- gamm(woody_C ~ s(PECI_cv),data= d);summary(mod_tc$gam);summary(mod_tc$lme)
-mod_oc <- lmer(other_cv ~ PECI_cv+fa+(1|site),d);summary(mod_oc)
-# mod_herb <- lmer(herb_C ~ PECI_cv + (1|site),d);summary(mod_herb)
-mod_herb1 <- glmer(herb_C ~ PECI_cv+ total_cover+simpson + (1|site),d);summary(mod_herb1);car::Anova(mod_herb1)
-
-mod_peci<- lmer(PECI_cv ~herb_C +
-                  # woody_C+ 
-                  fa+
-                  # buffel_SOC+
-                  simpson+
-                  # richness+
-                  # evenness+
-                  (1|site), d, REML=T); summary(mod_peci); car::Anova(mod_peci)
-
-# forgot to set REML=F when doing model selection oops
-m_oc1 <- lmer(buffel_SOC ~ 
-                woody_C+
-                other_TSC_g_m2+
-                herb_C+
-                buffel_TSC_g_m2+
-                (1|site),d);summary(m_oc1);car::Anova(m_oc1)
-m_oc2 <- lmer(bare_SOC ~  
-                woody_C+
-                bare_TSC_g_m2+
-                PECI_cv+
-                richness+
-                bare_cover+
-                buffel_SOC+
-                buffel_TSC_g_m2+
-                (1|site),d);summary(m_oc2);car::Anova(m_oc2)
-m_oc3 <- lmer(other_SOC ~ 
-                other_TSC_g_m2+
-                herb_C+(1|site),d);summary(m_oc3) 
-
-# Path Models ==================================================================
-si_l <-'herb_C ~ PECI_cv+shannon+fa+woody_C+site
-        # bare_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
-        # other_SOC~ richness + PECI_cv + other_cv + site + woody_C + fa
-        # buffel_SOC~ herb_C+ richness+PECI_cv+other_cv+site +woody_C+fa+shannon
-        shannon ~ PECI_cv +site + fa + herb_C + richness
-        # evenness ~  fa + shannon+richness#+herb_C+site
-        richness ~ PECI_cv+herb_C+shannon+site#+woody_C+site#+other_SOC
-        PECI_cv ~ other_cv +fa+ woody_C+site+ richness#+herb_C#+ bare_SOC+other_SOC
-       ' %>%
-  lavaan::sem(data=d)
-
-
-
-# summary(si_l)
-si_l
-
-# looking for paths to add
-modificationindices(si_l, sort. = TRUE)[1:10,]
-# looking for paths to subtract
-parameterestimates(si_l) %>%
-  filter(op=="~")%>%
-  group_by(lhs, op, rhs) %>%
-  dplyr::summarise(max = max(pvalue, na.rm=T),
-                   min=min(pvalue, na.rm=T),
-                   mean=mean(pvalue, na.rm=T)) %>%
-  ungroup()%>%
-  arrange(desc(mean)) %>%
-  filter(max >0.05, min >0.05)
-resid(si_l, "cor")$cov
-set.seed(100)
-
-
-layout_df <-  random_layout(si_l) %>%
-  mutate(x=replace(x, metric=="fa", -1),
-         y=replace(y, metric=="fa", 1),
-         x=replace(x, metric=="woody_C", -1),
-         y=replace(y, metric=="woody_C", 0),
-         x=replace(x, metric=="richness", 1.3),
-         y=replace(y, metric=="richness", -.33),
-         x=replace(x, metric=="other_cv", -1),
-         y=replace(y, metric=="other_cv", -1),
-         x=replace(x, metric=="PECI_cv", 0),
-         y=replace(y, metric=="PECI_cv", 0),
-         x=replace(x, metric=="bare_SOC", 1.3),
-         y=replace(y, metric=="bare_SOC", .33),
-         x=replace(x, metric=="herb_C", 0),
-         y=replace(y, metric=="herb_C", 1),
-         x=replace(x, metric=="shannon", 1),
-         y=replace(y, metric=="shannon", -1),
-         x=replace(x, metric=="other_SOC", 1),
-         y=replace(y, metric=="other_SOC", 1))
-
-
-paths <- ggsem(fit = si_l, filename = "figs/peci_sem.png", exclude = "site", title = "Path Model", 
-      layout = "manual",layout_df = layout_df, alpha = 0.05);paths
-
-ggsave(paths, filename = "figs/pathmod_july18_nosoil.png",bg='white',height =7, width =9)
-
-# path model with weighted C estimates
-
-si_t <-'herb_C ~ PECI_cv+shannon+fa+woody_C+site
-        ecosystem_gC_m2 ~ PECI_cv + herb_C + fa + richness  + site
-        shannon ~ PECI_cv +site + fa + herb_C + richness
-        richness ~ PECI_cv+herb_C+shannon+site+ ecosystem_gC_m2#+other_SOC
-        PECI_cv ~ other_cv +fa+ woody_C+site+ richness+ecosystem_gC_m2
-       ' %>%
-  lavaan::sem(data=d)
-
-# summary(si_l)
-si_t
-
-# looking for paths to add
-modificationindices(si_t, sort. = TRUE)[1:10,]
-# looking for paths to subtract
-parameterestimates(si_t) %>%
-  filter(op=="~")%>%
-  group_by(lhs, op, rhs) %>%
-  dplyr::summarise(max = max(pvalue, na.rm=T),
-                   min=min(pvalue, na.rm=T),
-                   mean=mean(pvalue, na.rm=T)) %>%
-  ungroup()%>%
-  arrange(desc(mean)) %>%
-  filter(max >0.05, min >0.05)
-resid(si_t, "cor")$cov
-set.seed(100)
-
-layout_df <-  random_layout(si_t) %>%
-  mutate(x=replace(x, metric=="fa", -1),
-         y=replace(y, metric=="fa", 1),
-         x=replace(x, metric=="woody_C", -1),
-         y=replace(y, metric=="woody_C", 0),
-         x=replace(x, metric=="richness", 1.3),
-         y=replace(y, metric=="richness", -.33),
-         x=replace(x, metric=="other_cv", -1),
-         y=replace(y, metric=="other_cv", -1),
-         x=replace(x, metric=="PECI_cv", 0),
-         y=replace(y, metric=="PECI_cv", 0),
-         x=replace(x, metric=="bare_SOC", 1.3),
-         y=replace(y, metric=="bare_SOC", .33),
-         x=replace(x, metric=="herb_C", 0),
-         y=replace(y, metric=="herb_C", 1),
-         x=replace(x, metric=="shannon", 1),
-         y=replace(y, metric=="shannon", -1),
-         x=replace(x, metric=="ecosystem_gC_m2", 1),
-         y=replace(y, metric=="ecosystem_gC_m2", 1))
-
-paths <- ggsem(fit = si_t, filename = "figs/peci_semt.png", exclude = "site", title = "Path Model", 
-               layout = "manual",layout_df = layout_df, alpha = 0.05);paths
-
-ggsave(paths, filename = "figs/pathmod_ecosystem_weighted_c.png",bg='white',height =7, width =9)

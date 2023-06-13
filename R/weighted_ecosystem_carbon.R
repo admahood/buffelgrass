@@ -29,8 +29,8 @@ other_cover <- cover %>%
   select (site_plot, other_cover)
 
 
-##############################################
-#weight total soil C by % cover
+
+#weight total soil C by % cover ==============
 
 #calculate mean total soil C by cover type and site_plot
 soils_TC<- soils %>%
@@ -90,12 +90,16 @@ ecosystem <- soil_cover %>%
 write_csv(ecosystem, "data/weighted_carbon.csv")
 
 
-#########################################################
-#plot ecosystem carbon as a function of buffelgrass cover
-ggplot(ecosystem, aes(x = buffel_cover, y = ecosystem_gC_m2)) +
+
+#plot ecosystem carbon as a function of buffelgrass cover# ===========
+ggplot(ecosystem, aes(x = buffel_cover, y = ecosystem_gC_m2, color = site)) +
   geom_point(size = 2) +
   geom_smooth(method=lm)
 #increases, because these areas haven't burned????
+
+ggplot(ecosystem, aes(x = buffel_cover, y = weighted_TC_gC_m2, color = site)) +
+  geom_point(size = 2) +
+  geom_smooth(method=lm)
 
 #with other cover
 ggplot(ecosystem, aes(x = other_cover, y = ecosystem_gC_m2)) +

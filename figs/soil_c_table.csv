@@ -1,0 +1,7 @@
+cover_type,response,SE,df,lower.CL,upper.CL,var
+bare,1244.9,102.1,32,1012.5,1530.7,TSC
+buffel,1098.9,102.7,32,868.4,1390.5,TSC
+native,1699.3,139.4,32,1382,2089.3,TSC
+bare,927.6,89.8,32,726.8,1183.9,SOC
+buffel,879.7,97,32,666.3,1161.4,SOC
+native,1352.6,131,32,1059.8,1726.2,SOC

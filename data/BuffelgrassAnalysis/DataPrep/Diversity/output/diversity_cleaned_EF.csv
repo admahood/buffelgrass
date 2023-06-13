@@ -1,0 +1,640 @@
+plot,datasheet_number,subplot,individual_number,species_raw,genus,species,usda_code,percent_cover,unknown_status,scientific_name_clean
+LOLA_01,2,plant_walk,NA,Cylindropuntia bigelovii,NA,NA,NA,0.01,NA,Cylindropuntia bigelovii
+LOLA_01,2,plant_walk,NA,Erogrostis lehmanniann,NA,NA,NA,0.01,NA,Eragrostis lehmanniana
+LOLA_01,2,plant_walk,NA,Cylindropuntia versicolor,NA,NA,NA,0.01,NA,Cylindropuntia versicolor
+LOLA_01,2,plant_walk,NA,Foquiera splendens,NA,NA,NA,0.01,NA,Fouquieria splendens
+LOLA_01,2,plant_walk,NA,Allium sp,NA,NA,NA,0.01,NA,Allium sp.
+LOLA_01,2,plant_walk,NA,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+LOLA_01,2,plant_walk,NA,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_01,2,plant_walk,NA,dried up annual aster,NA,NA,NA,0.01,NA,Asteraceae sp.
+LOLA_01,5,1,1,Encelia farinosa,NA,NA,NA,8,NA,Encelia farinosa
+LOLA_01,5,1,2,Ressurection fern,NA,NA,NA,10,NA,Selaginella pilifera
+LOLA_01,5,1,4,porophyllum gracile,NA,NA,NA,5,NA,Porophyllum gracile
+LOLA_01,5,2,1,Lycium sp,NA,NA,NA,5,NA,Lycium sp.
+LOLA_01,5,2,2,Pennisetum ciliare,NA,NA,NA,35,NA,Pennisetum ciliare
+LOLA_01,5,2,3,Encelia farinosa,NA,NA,NA,1,NA,Encelia farinosa
+LOLA_01,5,2,4,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+LOLA_01,5,2,5,Parkinsonia microphylla,NA,NA,NA,2,NA,Parkinsonia microphylla
+LOLA_01,5,3,1,Parkinsonia microphylla,NA,NA,NA,5,NA,Parkinsonia microphylla
+LOLA_01,5,3,2,Pennisetum ciliare,NA,NA,NA,12,NA,Pennisetum ciliare
+LOLA_01,5,3,3,resurrection fern,NA,NA,NA,2,NA,Selaginella pilifera
+LOLA_01,5,4,1,Myhlenbergfor porteri,NA,NA,NA,1,NA,Muhlenbergia porteri
+LOLA_01,5,4,2,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+LOLA_01,5,4,3,Larnegia gigantea,NA,NA,NA,7,NA,Carnegiea gigantea
+LOLA_01,5,4,5,Trixis californica,NA,NA,NA,1,NA,Trixis californica
+LOLA_01,6,5,1,Ambrosia deltoides,NA,NA,NA,4,NA,Ambrosia deltoidea
+LOLA_01,6,5,2,Cottsia gracile,NA,NA,NA,3,NA,Cottsia gracilis
+LOLA_01,6,5,4,Trixis californica,NA,NA,NA,0.5,NA,Trixis californica
+LOLA_01,6,6,1,Acacia greggii,NA,NA,NA,10,NA,Acacia greggii
+LOLA_01,6,6,2,Lycium sp,NA,NA,NA,2,NA,Lycium sp.
+LOLA_01,6,6,3,Pennisetum ciliare,NA,NA,NA,6,NA,Pennisetum ciliare
+LOLA_01,6,6,4,Muhlenburgia porteri,NA,NA,NA,10,NA,Muhlenbergia porteri
+LOLA_01,6,6,5,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+LOLA_01,6,6,6,Cottsia gracile,NA,NA,NA,0.5,NA,Cottsia gracilis
+LOLA_01,6,6,9,Pennelia longifolia,NA,NA,NA,0.5,NA,Pennellia longifolia
+LOLA_01,6,7,1,Pennisetum ciliare,NA,NA,NA,65,NA,Pennisetum ciliare
+LOLA_01,6,7,2,Chenopodium-looking subshrub,NA,NA,NA,0.5,NA,cf. Chenopodiaceae sp.
+LOLA_01,6,7,3,Mimosa aculetecorpa,NA,NA,NA,1,NA,Mimosa aculetecorpa
+LOLA_01,6,7,4,Cottsia gracile,NA,NA,NA,3,NA,Cottsia gracilis
+LOLA_01,6,8,1,Pennisetum ciliare,NA,NA,NA,50,NA,Pennisetum ciliare
+LOLA_01,6,8,2,Mimosa aculetecorpa,NA,NA,NA,2,NA,Mimosa aculetecorpa
+LOLA_02,5,2,1,Cottsia gracile,NA,NA,NA,3,NA,Cottsia gracilis
+LOLA_02,5,2,2,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+LOLA_02,5,2,3,Muhlenburgia porteri,NA,NA,NA,0.5,NA,Muhlenbergia porteri
+LOLA_02,5,3,1,Opuntia engelmannii,NA,NA,NA,35,NA,Opuntia engelmannii
+LOLA_02,5,3,2,Encelia farinosa,NA,NA,NA,12,NA,Encelia farinosa
+LOLA_02,5,3,3,Cottsia gracile,NA,NA,NA,2,NA,Cottsia gracilis
+LOLA_02,5,3,4,resurrection fern,NA,NA,NA,3,NA,Selaginella pilifera
+LOLA_02,5,4,2,Muhlenburgia porteri,NA,NA,NA,2,NA,Muhlenbergia porteri
+LOLA_02,5,4,3,Encelia farinosa,NA,NA,NA,2,NA,Encelia farinosa
+LOLA_02,5,4,4,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+LOLA_02,5,4,5,resurrection fern,NA,NA,NA,0.5,NA,Selaginella pilifera
+LOLA_02,6,5,1,Encelia farinosa,NA,NA,NA,30,NA,Encelia farinosa
+LOLA_02,6,5,3,Foquiera splendens,NA,NA,NA,2,NA,Fouquieria splendens
+LOLA_02,6,5,4,Pennisetum ciliare,NA,NA,NA,0.5,NA,Pennisetum ciliare
+LOLA_02,6,6,1,Muhlenburgia porteri,NA,NA,NA,20,NA,Muhlenbergia porteri
+LOLA_02,6,6,2,resurrection fern,NA,NA,NA,6,NA,Selaginella pilifera
+LOLA_02,6,6,3,Cylindropuntia versicolor,NA,NA,NA,5,NA,Cylindropuntia versicolor
+LOLA_02,6,7,1,Foquiera splendens,NA,NA,NA,8,NA,Fouquieria splendens
+LOLA_02,6,7,2,Parkinsonia microphylla,NA,NA,NA,60,NA,Parkinsonia microphylla
+LOLA_02,6,7,3,Encelia farinosa,NA,NA,NA,4,NA,Encelia farinosa
+LOLA_02,6,8,1,Mimosa aculetecorpa,NA,NA,NA,2,NA,Mimosa aculetecorpa
+LOLA_02,6,8,2,resurrection fern,NA,NA,NA,5,NA,Selaginella pilifera
+LOLA_03,5,1,1,Encelia farinosa,NA,NA,NA,0.5,NA,Encelia farinosa
+LOLA_03,5,2,1,Ressurection fern,NA,NA,NA,0.5,NA,Selaginella pilifera
+LOLA_03,5,2,2,Marina (some as RR_05 & RR_10),NA,NA,NA,1,NA,Marina parryi
+LOLA_03,5,2,3,Lycium sp,NA,NA,NA,3,NA,Lycium sp.
+LOLA_03,5,3,1,Cottsia gracile,NA,NA,NA,6,NA,Cottsia gracilis
+LOLA_03,5,3,2,Marina,NA,NA,NA,1,NA,Marina parryi
+LOLA_03,5,4,1,Encelia farinosa,NA,NA,NA,35,NA,Encelia farinosa
+LOLA_03,5,4,2,Pennisetum ciliare,NA,NA,NA,1,NA,Pennisetum ciliare
+LOLA_04,5,1,1,Mimosa aculetecorpa,NA,NA,NA,3,NA,Mimosa aculetecorpa
+LOLA_04,5,1,2,Muhlenburgia porteri,NA,NA,NA,2,NA,Muhlenbergia porteri
+LOLA_04,5,1,3,cf. erodium sp.,NA,NA,NA,0.1,NA,Erodium cicutarium
+LOLA_04,5,1,4,Pennisetum ciliare,NA,NA,NA,0.5,NA,Pennisetum ciliare
+LOLA_04,5,1,5,fern 2,NA,NA,NA,0.1,NA,Fern sp. (2)
+LOLA_04,5,2,1,Acacia greggii,NA,NA,NA,10,NA,Acacia greggii
+LOLA_04,5,2,2,Pennisetum ciliare,NA,NA,NA,25,NA,Pennisetum ciliare
+LOLA_04,5,3,1,Pennisetum ciliare,NA,NA,NA,20,NA,Pennisetum ciliare
+LOLA_04,5,3,2,Mimosa aculetecorpa,NA,NA,NA,1,NA,Mimosa aculetecorpa
+LOLA_04,5,4,1,Jatropha caridophylla,NA,NA,NA,1,NA,Jatropha cardiophylla
+LOLA_04,5,4,2,Foquiera splendens,NA,NA,NA,25,NA,Fouquieria splendens
+LOLA_04,5,4,3,Pennisetum ciliare,NA,NA,NA,55,NA,Pennisetum ciliare
+LOLA_03,6,5,1,Muhlenburgia porteri,NA,NA,NA,11,NA,Muhlenbergia porteri
+LOLA_03,6,5,2,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+LOLA_03,6,5,3,resurrection fern,NA,NA,NA,12,NA,Selaginella pilifera
+LOLA_03,6,6,1,Marina,NA,NA,NA,0.5,NA,Marina parryi
+LOLA_03,6,6,2,Encelia farinosa,NA,NA,NA,15,NA,Encelia farinosa
+LOLA_03,6,6,3,resurrection fern,NA,NA,NA,15,NA,Selaginella pilifera
+LOLA_03,6,7,1,Mimosa aculetecorpa,NA,NA,NA,10,NA,Mimosa aculetecorpa
+LOLA_03,6,7,2,Encelia farinosa,NA,NA,NA,4,NA,Encelia farinosa
+LOLA_03,6,7,3,Pennisetum ciliare,NA,NA,NA,18,NA,Pennisetum ciliare
+LOLA_03,6,7,4,Cylindropuntia versicolor,NA,NA,NA,3,NA,Cylindropuntia versicolor
+LOLA_03,6,8,1,Encelia farinosa,NA,NA,NA,0.1,NA,Encelia farinosa
+LOLA_03,6,8,2,resurrection fern,NA,NA,NA,4,NA,Selaginella pilifera
+LOLA_04,6,5,1,Pennisetum ciliare,NA,NA,NA,13,NA,Pennisetum ciliare
+LOLA_04,6,6,1,Pennisetum ciliare,NA,NA,NA,14,NA,Pennisetum ciliare
+LOLA_04,6,7,1,Pennisetum ciliare,NA,NA,NA,30,NA,Pennisetum ciliare
+LOLA_04,6,8,1,Pennisetum ciliare,NA,NA,NA,65,NA,Pennisetum ciliare
+LOLA_04,6,8,2,dried up annual aster,NA,NA,NA,0.1,NA,Asteraceae sp.
+LOLA_04,6,8,3,Mimosa aculetecorpa,NA,NA,NA,0.1,NA,Mimosa aculetecorpa
+LOLA_04,6,8,4,Cylindropuntia versicolor,NA,NA,NA,4,NA,Cylindropuntia versicolor
+LOLA_05,5,1,1,Pennisetum ciliare,NA,NA,NA,65,NA,Pennisetum ciliare
+LOLA_05,5,1,2,Mimosa aculetecorpa,NA,NA,NA,1,NA,Mimosa aculetecorpa
+LOLA_05,5,2,1,Pennisetum ciliare,NA,NA,NA,23,NA,Pennisetum ciliare
+LOLA_05,5,2,2,Cryptantha sp.,NA,NA,NA,0.1,NA,Cryptantha sp.
+LOLA_05,5,2,3,Pennelia longifolia,NA,NA,NA,0.5,NA,Pennellia longifolia
+LOLA_05,5,2,4,Mimosa aculetecorpa,NA,NA,NA,4,NA,Mimosa aculetecorpa
+LOLA_05,5,3,1,Pennisetum ciliare,NA,NA,NA,70,NA,Pennisetum ciliare
+LOLA_05,5,3,2,Jatropha caridophylla,NA,NA,NA,3,NA,Jatropha cardiophylla
+LOLA_05,5,3,3,Mimosa aculetecorpa,NA,NA,NA,3,NA,Mimosa aculetecorpa
+LOLA_05,5,4,1,Pennisetum ciliare,NA,NA,NA,20,NA,Pennisetum ciliare
+LOLA_05,5,4,2,Cylindropuntia bigelovii,NA,NA,NA,1,NA,Cylindropuntia bigelovii
+LOLA_05,6,1,1,Cornegia gigantea,NA,NA,NA,0.1,NA,Carnegiea gigantea
+LOLA_05,6,1,2,Pennisetum ciliare,NA,NA,NA,45,NA,Pennisetum ciliare
+LOLA_05,6,1,3,Cylindropuntia versicolor,NA,NA,NA,1,NA,Cylindropuntia versicolor
+LOLA_05,6,1,4,Cottsia gracile,NA,NA,NA,0.1,NA,Cottsia gracilis
+LOLA_05,6,1,5,Mimosa aculetecorpa,NA,NA,NA,3,NA,Mimosa aculetecorpa
+LOLA_05,6,2,1,Acacia greggii,NA,NA,NA,7,NA,Acacia greggii
+LOLA_05,6,2,2,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+LOLA_05,6,2,3,Pennisetum ciliare,NA,NA,NA,5,NA,Pennisetum ciliare
+LOLA_05,6,2,4,Mimosa aculetecorpa,NA,NA,NA,2,NA,Mimosa aculetecorpa
+LOLA_05,6,3,1,Pennisetum ciliare,NA,NA,NA,70,NA,Pennisetum ciliare
+LOLA_05,6,3,2,Jatropha caridophylla,NA,NA,NA,0.5,NA,Jatropha cardiophylla
+LOLA_05,6,3,3,Mimosa aculetecorpa,NA,NA,NA,0.5,NA,Mimosa aculetecorpa
+LOLA_05,6,4,1,Pennisetum ciliare,NA,NA,NA,95,NA,Pennisetum ciliare
+LOLA_05,6,4,2,Cylindropuntia versicolor,NA,NA,NA,4,NA,Cylindropuntia versicolor
+LOLA_06,5,1,1,Encelia farinosa,NA,NA,NA,3,NA,Encelia farinosa
+LOLA_06,5,1,2,resurrection fern,NA,NA,NA,4,NA,Selaginella pilifera
+LOLA_06,5,2,1,Cylindropuntia versicolor,NA,NA,NA,7,NA,Cylindropuntia versicolor
+LOLA_06,5,2,2,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+LOLA_06,5,2,3,Acacia greggii,NA,NA,NA,4,NA,Acacia greggii
+LOLA_06,5,2,4,Cottsia gracile,NA,NA,NA,3,NA,Cottsia gracilis
+LOLA_06,5,2,5,Prosopsis velutina,NA,NA,NA,10,NA,Prosopsis velutina
+LOLA_06,5,3,1,Encelia farinosa,NA,NA,NA,20,NA,Encelia farinosa
+LOLA_06,5,3,2,Acacia greggii,NA,NA,NA,16,NA,Acacia greggii
+LOLA_06,5,3,3,Muhlenburgia porteri,NA,NA,NA,6,NA,Muhlenbergia porteri
+LOLA_06,5,3,4,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+LOLA_06,5,3,5,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+LOLA_06,5,3,6,Trixis californica,NA,NA,NA,0.1,NA,Trixis californica
+LOLA_06,5,4,1,Encelia farinosa,NA,NA,NA,3,NA,Encelia farinosa
+LOLA_06,5,4,2,resurrection fern,NA,NA,NA,3,NA,Selaginella pilifera
+LOLA_06,5,4,3,Cottsia gracile,NA,NA,NA,4,NA,Cottsia gracilis
+LOLA_06,5,4,4,Hesperostipa neomexicana,NA,NA,NA,0.5,NA,Hesperostipa neomexicana
+LOLA_06,6,5,1,Mimosa aculetecorpa,NA,NA,NA,4,NA,Mimosa aculetecorpa
+LOLA_06,6,5,2,Pennelia longifolia,NA,NA,NA,1,NA,Pennellia longifolia
+LOLA_06,6,5,3,Encelia farinosa,NA,NA,NA,1,NA,Encelia farinosa
+LOLA_06,6,6,1,Hesperostipa neomexicana,NA,NA,NA,1,NA,Hesperostipa neomexicana
+LOLA_06,6,6,2,Encelia farinosa,NA,NA,NA,2,NA,Encelia farinosa
+LOLA_06,6,6,3,cf. erodium sp.,NA,NA,NA,0.5,NA,Erodium cicutarium
+LOLA_06,6,6,4,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+LOLA_06,6,7,1,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+LOLA_06,6,7,2,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+LOLA_06,6,7,3,Cylindropuntia bigelovii,NA,NA,NA,1,NA,Cylindropuntia bigelovii
+LOLA_06,6,8,1,Cornegia gigantea,NA,NA,NA,0.5,NA,Carnegiea gigantea
+LOLA_06,6,8,2,Foquiera splendens,NA,NA,NA,1,NA,Fouquieria splendens
+LOLA_06,6,8,3,Mimosa aculetecorpa,NA,NA,NA,12,NA,Mimosa aculetecorpa
+LOLA_06,6,8,4,Encelia farinosa,NA,NA,NA,1,NA,Encelia farinosa
+LOLA_06,6,8,5,Lepidium densiflorum,NA,NA,NA,0.5,NA,Lepidium densiflorum
+LOLA_06,6,8,6,resurrection fern,NA,NA,NA,10,NA,Selaginella pilifera
+LOLA_06,6,8,7,Opuntia engelmannii,NA,NA,NA,0.5,NA,Opuntia engelmannii
+RR_01,5,1,1,Pennisetum ciliare,NA,NA,NA,15,NA,Pennisetum ciliare
+RR_01,5,1,2,Eragrostis lehmanniana,NA,NA,NA,8,NA,Eragrostis lehmanniana
+RR_01,5,1,3,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_01,5,2,1,Prosopsis velutina,NA,NA,NA,8,NA,Prosopsis velutina
+RR_01,5,2,2,Pennisetum ciliare,NA,NA,NA,13,NA,Pennisetum ciliare
+RR_01,5,2,3,Eragrostis lehmanniana,NA,NA,NA,3,NA,Eragrostis lehmanniana
+RR_01,5,2,4,Ambrosia psilostachya,NA,NA,NA,3,NA,Ambrosia psilostachya
+RR_01,5,3,1,Pennisetum ciliare,NA,NA,NA,20,NA,Pennisetum ciliare
+RR_01,5,3,2,Prosopsis velutina,NA,NA,NA,6,NA,Prosopsis velutina
+RR_01,5,4,1,Eragrostis lehmanniana,NA,NA,NA,7,NA,Eragrostis lehmanniana
+RR_01,5,4,2,Prosopsis velutina,NA,NA,NA,60,NA,Prosopsis velutina
+RR_01,5,4,3,Lepidium densiflorum,NA,NA,NA,3,NA,Lepidium densiflorum
+RR_01,5,4,4,Unk 2 (white fluffies),NA,NA,NA,6,NA,Cryptantha sp. (Unk 2)
+RR_01,5,4,5,cf Desurainia sophia,NA,NA,NA,7,NA,cf. Descurainia sophia
+RR_01,5,4,6,Ambrosia psilostachya,NA,NA,NA,1,NA,Ambrosia psilostachya
+RR_01,5,4,7,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_01,5,4,8,Evolvulus arizonicus,NA,NA,NA,0.5,NA,Evolvulus arizonicus
+RR_01,5,4,9,Unk 4 - Justicia longlii,NA,NA,NA,0.1,NA,Justicia longii
+RR_01,5,4,13,Ayenia filiformis,NA,NA,NA,0.1,NA,Ayenia filiformis
+RR_01,6,5,1,Eragrostis lehmanniana,NA,NA,NA,60,NA,Eragrostis lehmanniana
+RR_01,6,5,2,Ambrosia psilostachya,NA,NA,NA,2,NA,Ambrosia psilostachya
+RR_01,6,5,3,Unk 2,NA,NA,NA,0.1,NA,Cryptantha sp. (Unk 2)
+RR_01,6,5,4,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_01,6,6,1,Prosopsis velutina,NA,NA,NA,50,NA,Prosopsis velutina
+RR_01,6,6,2,Unk 2,NA,NA,NA,2,NA,Cryptantha sp. (Unk 2)
+RR_01,6,6,3,Eragrostis lehmanniana,NA,NA,NA,9,NA,Eragrostis lehmanniana
+RR_01,6,6,4,Lepidium densiflorum,NA,NA,NA,3,NA,Lepidium densiflorum
+RR_01,6,6,5,Justicia longlii,NA,NA,NA,0.1,NA,Justicia longii
+RR_01,6,6,6,Calliondra eriophylla,NA,NA,NA,5,NA,Calliandra eriophylla
+RR_01,6,6,7,Pennisetum ciliare,NA,NA,NA,1,NA,Pennisetum ciliare
+RR_01,6,7,1,Opuntia engelmannii,NA,NA,NA,20,NA,Opuntia engelmannii
+RR_01,6,7,2,Ambrosia psilostachya,NA,NA,NA,5,NA,Ambrosia psilostachya
+RR_01,6,7,3,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_01,6,7,4,Eragrostis lehmanniana,NA,NA,NA,9,NA,Eragrostis lehmanniana
+RR_01,6,7,5,Plantago purshii,NA,NA,NA,0.5,NA,Plantago purshii
+RR_01,6,7,7,Unk 2,NA,NA,NA,0.1,NA,Cryptantha sp. (Unk 2)
+RR_01,6,7,8,Bouteloua repens,NA,NA,NA,3,NA,Bouteloua repens
+RR_01,6,8,1,Unk 2,NA,NA,NA,1,NA,Cryptantha sp. (Unk 2)
+RR_01,6,8,2,cf Desurainia sophia,NA,NA,NA,5,NA,cf. Descurainia sophia
+RR_01,6,8,4,Ambrosia psilostachya,NA,NA,NA,1,NA,Ambrosia psilostachya
+RR_01,6,8,5,Eragrostis lehmanniana,NA,NA,NA,2,NA,Eragrostis lehmanniana
+RR_01,6,8,7,Lepidium densiflorum,NA,NA,NA,2,NA,Lepidium densiflorum
+RR_01,6,8,8,Prosopsis velutina,NA,NA,NA,30,NA,Prosopsis velutina
+RR_01,6,8,10,Ayenia filiformis,NA,NA,NA,0.1,NA,Ayenia filiformis
+RR_01,6,8,11,Ipomoea hederacea,NA,NA,NA,0.1,NA,Ipomoea hederacea
+RR_02,5,1,1,Moss sp.,NA,NA,NA,18,NA,Moss sp.
+RR_02,5,1,3,Unk 21 - velvety grass,NA,NA,NA,4,NA,Poaceae sp. (Unk 21)
+RR_02,5,1,4,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_02,5,1,5,Pennisetum ciliare,NA,NA,NA,1,NA,Pennisetum ciliare
+RR_02,5,2,1,Pennisetum ciliare,NA,NA,NA,27,NA,Pennisetum ciliare
+RR_02,5,2,2,Calliondra eriophylla,NA,NA,NA,3,NA,Calliandra eriophylla
+RR_02,5,2,3,Lepidium densiflorum,NA,NA,NA,0.5,NA,Lepidium densiflorum
+RR_02,5,2,5,Foquiera splendens,NA,NA,NA,0.5,NA,Fouquieria splendens
+RR_02,5,3,1,Pennisetum ciliare,NA,NA,NA,25,NA,Pennisetum ciliare
+RR_02,5,3,2,Calliondra eriophylla,NA,NA,NA,7,NA,Calliandra eriophylla
+RR_02,5,4,1,Gutierezia sarothrae,NA,NA,NA,4,NA,Gutierrezia sarothrae
+RR_02,5,4,2,Unk 2,NA,NA,NA,3,NA,Cryptantha sp. (Unk 2)
+RR_02,5,4,3,Pennisetum ciliare,NA,NA,NA,7,NA,Pennisetum ciliare
+RR_02,5,4,4,Eragrostis lehmanniana,NA,NA,NA,5,NA,Eragrostis lehmanniana
+RR_02,5,4,5,Unknown asteraceae,NA,NA,NA,2,NA,Asteraceae sp.
+RR_02,6,5,1,Prosopsis velutina,NA,NA,NA,17,NA,Prosopsis velutina
+RR_02,6,5,2,Eragrostis lehmanniana,NA,NA,NA,5,NA,Eragrostis lehmanniana
+RR_02,6,5,3,Unk 2,NA,NA,NA,1,NA,Cryptantha sp. (Unk 2)
+RR_02,6,5,4,Abutilon palmeri,NA,NA,NA,0.5,NA,Abutilon palmeri
+RR_02,6,6,1,Centaurea melitensis,NA,NA,NA,2,NA,Centaurea melitensis
+RR_02,6,6,2,Pennisetum ciliare,NA,NA,NA,27,NA,Pennisetum ciliare
+RR_02,6,7,1,Foquiera splendens,NA,NA,NA,7,NA,Fouquieria splendens
+RR_02,6,7,2,Pennisetum ciliare,NA,NA,NA,30,NA,Pennisetum ciliare
+RR_02,6,7,3,Calliondra eriophylla,NA,NA,NA,3,NA,Calliandra eriophylla
+RR_02,6,7,4,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_02,6,8,1,Pennisetum ciliare,NA,NA,NA,9,NA,Pennisetum ciliare
+RR_02,6,8,2,Eragrostis lehmanniana,NA,NA,NA,4,NA,Eragrostis lehmanniana
+RR_02,6,8,3,Plantago purshii,NA,NA,NA,1,NA,Plantago purshii
+RR_02,6,8,4,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_02,6,8,5,Bouteloua repens,NA,NA,NA,1,NA,Bouteloua repens
+RR_02,6,8,6,Evolvulus arizonicus,NA,NA,NA,0.5,NA,Evolvulus arizonicus
+RR_02,6,8,7,Unk 21 - velvety grass,NA,NA,NA,1,NA,Poaceae sp. (Unk 21)
+RR_02,6,8,8,Calliondra eriophylla,NA,NA,NA,0.1,NA,Calliandra eriophylla
+RR_03,5,1,1,Calliondra eriophylla,NA,NA,NA,60,NA,Calliandra eriophylla
+RR_03,5,1,2,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_03,5,1,3,Unk 2,NA,NA,NA,0.5,NA,Cryptantha sp. (Unk 2)
+RR_03,5,1,4,Evolvulus arizonicus,NA,NA,NA,0.1,NA,Evolvulus arizonicus
+RR_03,5,2,2,Hesperostipa neomexicana,NA,NA,NA,1,NA,Hesperostipa neomexicana
+RR_03,5,2,3,Lepidium densiflorum,NA,NA,NA,3,NA,Lepidium densiflorum
+RR_03,5,2,4,Dalea cf albiflorus,NA,NA,NA,30,NA,Dalea albiflora
+RR_03,5,2,5,Phemeranthus aurantiacus,NA,NA,NA,1,NA,Phemeranthus aurantiacus
+RR_03,5,2,6,Unk 2,NA,NA,NA,0.5,NA,Cryptantha sp. (Unk 2)
+RR_03,5,2,7,Eragrostis lehmanniana,NA,NA,NA,5,NA,Eragrostis lehmanniana
+RR_03,5,2,8,Evolvulus arizonicus,NA,NA,NA,1,NA,Evolvulus arizonicus
+RR_03,5,2,9,cf Erodium cicutarium,NA,NA,NA,0.1,NA,Erodium cicutarium
+RR_03,5,2,10,Mammilaria grahamii,NA,NA,NA,0.5,NA,Mammillaria grahamii
+RR_03,5,2,11,Allium sp.,NA,NA,NA,0.5,NA,Allium sp.
+RR_03,5,2,12,Sida abutifolia,NA,NA,NA,1,NA,Sida abutifolia
+RR_03,5,3,1,Ambrosia psilostachya,NA,NA,NA,2,NA,Ambrosia psilostachya
+RR_03,5,3,2,Eragrostis lehmanniana,NA,NA,NA,3,NA,Eragrostis lehmanniana
+RR_03,5,3,3,Lepidium densiflorum,NA,NA,NA,8,NA,Lepidium densiflorum
+RR_03,5,3,4,Ipomoea tenuiloba,NA,NA,NA,0.5,NA,Ipomoea tenuiloba
+RR_03,5,3,5,Allium sp.,NA,NA,NA,0.1,NA,Allium sp.
+RR_03,5,3,6,cf Erodium cicutarium,NA,NA,NA,0.1,NA,Erodium cicutarium
+RR_03,5,3,7,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_03,5,3,8,Bouteloua curtipendula,NA,NA,NA,0.1,NA,Bouteloua curtipendula
+RR_03,5,3,9,Unk 2,NA,NA,NA,0.01,NA,Cryptantha sp. (Unk 2)
+RR_03,5,4,1,Mimosa aculetecorpa,NA,NA,NA,9,NA,Mimosa aculetecorpa
+RR_03,5,4,2,Unk 2,NA,NA,NA,9,NA,Cryptantha sp. (Unk 2)
+RR_03,5,4,3,Lepidium densiflorum,NA,NA,NA,5,NA,Lepidium densiflorum
+RR_03,5,4,4,Ambrosia psilostachya,NA,NA,NA,3,NA,Ambrosia psilostachya
+RR_03,5,4,6,Cirsium sp.,NA,NA,NA,2,NA,Cirsium sp.
+RR_03,5,4,7,Bouteloua curtipendula,NA,NA,NA,13,NA,Bouteloua curtipendula
+RR_03,5,4,8,Ipomoea hederacea,NA,NA,NA,0.5,NA,Ipomoea hederacea
+RR_03,6,5,1,Bouteloua repens,NA,NA,NA,4,NA,Bouteloua repens
+RR_03,6,5,2,Mimosa aculetecorpa,NA,NA,NA,1,NA,Mimosa aculetecorpa
+RR_03,6,5,3,Evolvulus arizonicus,NA,NA,NA,1,NA,Evolvulus arizonicus
+RR_03,6,5,4,"J-something from RR-1, small red flowers at axis",NA,NA,NA,0.1,NA,Ayenia filiformis
+RR_03,6,5,5,Eragrostis lehmanniana,NA,NA,NA,0.5,NA,Eragrostis lehmanniana
+RR_03,6,5,6,velvety grass,NA,NA,NA,0.1,NA,Poaceae sp. (Unk 21)
+RR_03,6,5,7,Allionia incarnata,NA,NA,NA,0.1,NA,Allionia incarnata
+RR_03,6,5,8,dried up Erigeron sp.,NA,NA,NA,0.1,NA,Erigeron sp.
+RR_03,6,5,9,Mammilaria grahamii,NA,NA,NA,0.5,NA,Mammillaria grahamii
+RR_03,6,5,10,Fern spp.,NA,NA,NA,3,NA,Fern sp.
+RR_03,6,5,11,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_03,6,5,12,Dalea albiflora,NA,NA,NA,0.5,NA,Dalea albiflora
+RR_03,6,6,1,Fern 2,NA,NA,NA,1,NA,Fern sp. (2)
+RR_03,6,6,2,Prosopsis velutina,NA,NA,NA,5,NA,Prosopsis velutina
+RR_03,6,6,3,Ambrosia psilostachya,NA,NA,NA,1,NA,Ambrosia psilostachya
+RR_03,6,6,4,Lepidium densiflorum,NA,NA,NA,2,NA,Lepidium densiflorum
+RR_03,6,6,6,Calliondra eriophylla,NA,NA,NA,2,NA,Calliandra eriophylla
+RR_03,6,6,8,cf phacelia sp.,NA,NA,NA,1,NA,cf. Phacelia sp.
+RR_03,6,6,9,Eragrostis lehmanniana,NA,NA,NA,0.1,NA,Eragrostis lehmanniana
+RR_03,6,7,1,Ipomoea hederacea,NA,NA,NA,2,NA,Ipomoea hederacea
+RR_03,6,7,2,Unk 2,NA,NA,NA,8,NA,Cryptantha sp. (Unk 2)
+RR_03,6,7,3,Lepidium densiflorum,NA,NA,NA,6,NA,Lepidium densiflorum
+RR_03,6,7,4,Bathriachloa barbinodis,NA,NA,NA,1,NA,Bothriochloa barbinodis
+RR_03,6,7,5,Cirsium sp.,NA,NA,NA,1,NA,Cirsium sp.
+RR_03,6,7,6,Ipomoea tenuiloba,NA,NA,NA,0.5,NA,Ipomoea tenuiloba
+RR_03,6,7,7,Allium sp.,NA,NA,NA,0.1,NA,Allium sp.
+RR_03,6,7,8,Prosopsis velutina,NA,NA,NA,2,NA,Prosopsis velutina
+RR_03,6,7,9,Allionia incarnata,NA,NA,NA,0.1,NA,Allionia incarnata
+RR_03,6,8,2,Jatropha caridophylla,NA,NA,NA,5,NA,Jatropha cardiophylla
+RR_03,6,8,3,Mimosa aculetecorpa,NA,NA,NA,4,NA,Mimosa aculetecorpa
+RR_03,6,8,4,Cylindropuntia versicolor,NA,NA,NA,50,NA,Cylindropuntia versicolor
+RR_03,6,8,5,Unk 2,NA,NA,NA,4,NA,Cryptantha sp. (Unk 2)
+RR_03,6,8,6,Allium sp.,NA,NA,NA,1,NA,Allium sp.
+RR_03,6,8,7,Eragrostis lehmanniana,NA,NA,NA,0.1,NA,Eragrostis lehmanniana
+RR_03,6,8,8,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_03,6,8,9,Bathriachloa barbinodis,NA,NA,NA,6,NA,Bothriochloa barbinodis
+RR_03,6,8,10,Justicia longlii,NA,NA,NA,0.1,NA,Justicia longii
+RR_03,6,8,11,cf Bromus sp.,NA,NA,NA,0.1,NA,cf. Bromus sp.
+RR_04,5,1,1,Opuntia engelmannii,NA,NA,NA,30,NA,Opuntia engelmannii
+RR_04,5,1,2,Pennisetum ciliare,NA,NA,NA,8,NA,Pennisetum ciliare
+RR_04,5,1,3,Eragrostis lehmanniana,NA,NA,NA,2,NA,Eragrostis lehmanniana
+RR_04,5,1,4,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_04,5,1,5,Bouteloua curtipendula,NA,NA,NA,3,NA,Bouteloua curtipendula
+RR_04,5,1,6,Hesperostipa neomexicana,NA,NA,NA,1,NA,Hesperostipa neomexicana
+RR_04,5,2,1,Cottsia gracilis,NA,NA,NA,2,NA,Cottsia gracilis
+RR_04,5,2,2,Pennisetum ciliare,NA,NA,NA,23,NA,Pennisetum ciliare
+RR_04,5,2,3,Mimosa aculetecorpa,NA,NA,NA,0.5,NA,Mimosa aculetecorpa
+RR_04,5,2,4,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+RR_04,5,3,1,Acacia greggii,NA,NA,NA,20,NA,Acacia greggii
+RR_04,5,3,2,Eragrostis lehmanniana,NA,NA,NA,0.1,NA,Eragrostis lehmanniana
+RR_04,5,3,3,Encelia farinosa,NA,NA,NA,10,NA,Encelia farinosa
+RR_04,5,4,1,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+RR_04,5,4,2,Opuntia engelmannii,NA,NA,NA,65,NA,Opuntia engelmannii
+RR_04,5,4,3,Bathriachloa barbinodis,NA,NA,NA,2,NA,Bothriochloa barbinodis
+RR_04,5,4,4,Mimosa aculetecorpa,NA,NA,NA,2,NA,Mimosa aculetecorpa
+RR_04,5,4,5,Cottsia gracilis,NA,NA,NA,2,NA,Cottsia gracilis
+RR_04,6,5,1,Pennisetum ciliare,NA,NA,NA,25,NA,Pennisetum ciliare
+RR_04,6,6,1,Pennisetum ciliare,NA,NA,NA,75,NA,Pennisetum ciliare
+RR_04,6,6,2,Encelia farinosa,NA,NA,NA,13,NA,Encelia farinosa
+RR_04,6,6,3,"Unk 41 - vine, cordat lvs",NA,NA,NA,0.5,NA,Ipomoea hederacea
+RR_04,6,7,1,Cylindropuntia versicolor,NA,NA,NA,15,NA,Cylindropuntia versicolor
+RR_04,6,7,2,Ferocactus wislizeni,NA,NA,NA,8,NA,Ferocactus wislizeni
+RR_04,6,7,3,Pennisetum ciliare,NA,NA,NA,21,NA,Pennisetum ciliare
+RR_04,6,7,4,Mimosa aculetecorpa,NA,NA,NA,8,NA,Mimosa aculetecorpa
+RR_04,6,8,1,Foquiera splendens,NA,NA,NA,38,NA,Fouquieria splendens
+RR_04,6,8,2,Unk 2,NA,NA,NA,1,NA,Cryptantha sp. (Unk 2)
+RR_04,6,8,3,Jatropha caridophylla,NA,NA,NA,10,NA,Jatropha cardiophylla
+RR_04,6,8,4,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_04,6,8,5,Cottsia gracilis,NA,NA,NA,0.1,NA,Cottsia gracilis
+RR_04,6,8,6,Unk 41,NA,NA,NA,3,NA,Ipomoea hederacea
+RR_04,6,8,7,Mammilaria grahamii,NA,NA,NA,1,NA,Mammillaria grahamii
+RR_04,6,8,8,Bathriachloa barbinodis,NA,NA,NA,4,NA,Bothriochloa barbinodis
+RR_04,6,8,9,Pennisetum ciliare,NA,NA,NA,0.5,NA,Pennisetum ciliare
+RR_04,6,8,10,Opuntia engelmannii,NA,NA,NA,5,NA,Opuntia engelmannii
+RR_04,6,8,11,Artemisia ludoviciana,NA,NA,NA,0.01,NA,Artemisia ludoviciana
+RR_05,5,1,1,Foquiera splendens,NA,NA,NA,40,NA,Fouquieria splendens
+RR_05,5,1,2,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_05,5,1,3,Eragrostis lehmanniana,NA,NA,NA,4,NA,Eragrostis lehmanniana
+RR_05,5,1,4,Opuntia engelmannii,NA,NA,NA,0.5,NA,Opuntia engelmannii
+RR_05,5,1,5,Lepidium densiflorum,NA,NA,NA,1,NA,Lepidium densiflorum
+RR_05,5,1,6,Ayenia filiformis,NA,NA,NA,1,NA,Ayenia filiformis
+RR_05,5,1,7,Unk 2,NA,NA,NA,0.1,NA,Cryptantha sp. (Unk 2)
+RR_05,5,1,8,Pectocarya sp.,NA,NA,NA,0.1,NA,Pectocarya sp.
+RR_05,5,2,1,Pennisetum ciliare,NA,NA,NA,10,NA,Pennisetum ciliare
+RR_05,5,2,2,Ayenia filiformis,NA,NA,NA,1,NA,Ayenia filiformis
+RR_05,5,2,3,Encelia farinosa,NA,NA,NA,1,NA,Encelia farinosa
+RR_05,5,3,1,Pennisetum ciliare,NA,NA,NA,19,NA,Pennisetum ciliare
+RR_05,5,3,2,Opuntia engelmannii,NA,NA,NA,6,NA,Opuntia engelmannii
+RR_05,5,3,3,Foquiera splendens,NA,NA,NA,10,NA,Fouquieria splendens
+RR_05,5,3,4,Encelia farinosa,NA,NA,NA,4,NA,Encelia farinosa
+RR_05,5,3,5,Eragrostis lehmanniana,NA,NA,NA,1,NA,Eragrostis lehmanniana
+RR_05,5,4,1,Lycium sp. 2,NA,NA,NA,3,NA,Lycium sp. (2)
+RR_05,5,4,2,Pennisetum ciliare,NA,NA,NA,77,NA,Pennisetum ciliare
+RR_05,6,5,1,Encelia farinosa,NA,NA,NA,10,NA,Encelia farinosa
+RR_05,6,5,2,Pennisetum ciliare,NA,NA,NA,8,NA,Pennisetum ciliare
+RR_05,6,5,3,Cottsia gracile,NA,NA,NA,8,NA,Cottsia gracilis
+RR_05,6,5,4,"Unk 41 (heart-shaped lvs, viney)",NA,NA,NA,0.1,NA,Ipomoea hederacea
+RR_05,6,5,5,Mimosa aculetecorpa,NA,NA,NA,4,NA,Mimosa aculetecorpa
+RR_05,6,6,1,Encelia farinosa,NA,NA,NA,7,NA,Encelia farinosa
+RR_05,6,6,2,Cottsia gracile,NA,NA,NA,3,NA,Cottsia gracilis
+RR_05,6,6,3,Eragrostis lehmanniana,NA,NA,NA,0.1,NA,Eragrostis lehmanniana
+RR_05,6,6,4,Unk 41,NA,NA,NA,1,NA,Ipomoea hederacea
+RR_05,6,6,5,Mammilaria grahamii,NA,NA,NA,0.5,NA,Mammillaria grahamii
+RR_05,6,6,6,Foquiera splendens,NA,NA,NA,1,NA,Fouquieria splendens
+RR_05,6,7,1,Mimosa aculetecorpa,NA,NA,NA,11,NA,Mimosa aculetecorpa
+RR_05,6,7,2,Encelia farinosa,NA,NA,NA,0.1,NA,Encelia farinosa
+RR_05,6,7,3,Mammilaria grahamii,NA,NA,NA,0.5,NA,Mammillaria grahamii
+RR_05,6,7,4,Foquiera splendens,NA,NA,NA,2,NA,Fouquieria splendens
+RR_05,6,7,5,Vulpia bromoides,NA,NA,NA,0.1,NA,Vulpia bromoides
+RR_05,6,7,6,Sida abutifolia,NA,NA,NA,0.5,NA,Sida abutifolia
+RR_05,6,8,1,Lycium sp. 2,NA,NA,NA,30,NA,Lycium sp. (2)
+RR_05,6,8,2,Prosopsis velutina,NA,NA,NA,40,NA,Prosopsis velutina
+RR_05,6,8,3,Foquiera splendens,NA,NA,NA,10,NA,Fouquieria splendens
+RR_05,6,8,4,"Aster shrub, deltoid lvs, erect infls (not dropping like ambrosia)",NA,NA,NA,5,NA,Brickellia sp.
+RR_06,5,1,2,Mimosa aculetecorpa,NA,NA,NA,3,NA,Mimosa aculetecorpa
+RR_06,5,1,3,Lepidium densiflorum,NA,NA,NA,0.5,NA,Lepidium densiflorum
+RR_06,5,1,4,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_06,5,1,5,Unarmed Aacacia,NA,NA,NA,3,NA,Acacia sp. (unarmed)
+RR_06,5,1,6,Acacia greggii,NA,NA,NA,2,NA,Acacia greggii
+RR_06,5,2,1,Parkinsonia microphylla,NA,NA,NA,13,NA,Parkinsonia microphylla
+RR_06,5,2,2,Marina parryi,NA,NA,NA,1,NA,Marina parryi
+RR_06,5,2,3,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_06,5,2,4,Eriogorum sp.,NA,NA,NA,0.1,NA,Eriogonum sp.
+RR_06,5,2,5,Unknown perennial grass,NA,NA,NA,0.1,NA,Poa sp. (perennial)
+RR_06,5,2,6,Mimosa aculetecorpa,NA,NA,NA,0.01,NA,Mimosa aculetecorpa
+RR_06,5,3,1,Lepidium densiflorum,NA,NA,NA,0.5,NA,Lepidium densiflorum
+RR_06,5,3,2,Parkinsonia microphylla,NA,NA,NA,4,NA,Parkinsonia microphylla
+RR_06,5,3,3,Cottsia gracile,NA,NA,NA,7,NA,Cottsia gracilis
+RR_06,5,3,4,Encelia farinosa,NA,NA,NA,4,NA,Encelia farinosa
+RR_06,5,4,1,Opuntia engelmannii,NA,NA,NA,40,NA,Opuntia engelmannii
+RR_06,5,4,2,Mimosa aculetecorpa,NA,NA,NA,15,NA,Mimosa aculetecorpa
+RR_06,5,4,3,Lepidium densiflorum,NA,NA,NA,0.5,NA,Lepidium densiflorum
+RR_06,5,4,4,Eragrostis lehmanniana,NA,NA,NA,0.1,NA,Eragrostis lehmanniana
+RR_06,5,4,5,Foquiera splendens,NA,NA,NA,2,NA,Fouquieria splendens
+RR_06,5,4,6,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+RR_06,6,5,1,Opuntia engelmannii,NA,NA,NA,55,NA,Opuntia engelmannii
+RR_06,6,5,2,Cottsia gracile,NA,NA,NA,20,NA,Cottsia gracilis
+RR_06,6,5,3,Mimosa aculetecorpa,NA,NA,NA,1,NA,Mimosa aculetecorpa
+RR_06,6,5,4,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_06,6,6,1,Mimosa aculetecorpa,NA,NA,NA,7,NA,Mimosa aculetecorpa
+RR_06,6,6,2,Opuntia engelmannii,NA,NA,NA,17,NA,Opuntia engelmannii
+RR_06,6,6,3,Lepidium densiflorum,NA,NA,NA,0.5,NA,Lepidium densiflorum
+RR_06,6,6,4,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+RR_06,6,6,5,Unk 2,NA,NA,NA,0.1,NA,Cryptantha sp. (Unk 2)
+RR_06,6,6,6,Evolvulus arizonicus,NA,NA,NA,0.5,NA,Evolvulus arizonicus
+RR_06,6,6,7,Eriogorum sp.,NA,NA,NA,0.1,NA,Eriogonum sp.
+RR_06,6,6,8,Jatropha caridophylla,NA,NA,NA,0.5,NA,Jatropha cardiophylla
+RR_06,6,7,1,Opuntia engelmannii,NA,NA,NA,20,NA,Opuntia engelmannii
+RR_06,6,7,2,Eragrostis lehmanniana,NA,NA,NA,4,NA,Eragrostis lehmanniana
+RR_06,6,7,3,Mimosa aculetecorpa,NA,NA,NA,20,NA,Mimosa aculetecorpa
+RR_06,6,7,4,Evolvulus arizonicus,NA,NA,NA,0.5,NA,Evolvulus arizonicus
+RR_06,6,7,5,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_06,6,7,6,Cottsia gracile,NA,NA,NA,1,NA,Cottsia gracilis
+RR_06,6,8,1,Opuntia engelmannii,NA,NA,NA,2,NA,Opuntia engelmannii
+RR_06,6,8,2,Cottsia gracile,NA,NA,NA,5,NA,Cottsia gracilis
+RR_06,6,8,3,Encelia farinosa,NA,NA,NA,0.1,NA,Encelia farinosa
+RR_06,6,8,4,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_06,6,8,5,Plantago purshii,NA,NA,NA,0.1,NA,Plantago purshii
+RR_07,5,1,1,Pennisetum ciliare,NA,NA,NA,2,NA,Pennisetum ciliare
+RR_07,5,1,2,Jacquemontia pringlei,NA,NA,NA,0.1,NA,Jacquemontia pringlei
+RR_07,5,1,3,Lepidium densiflorum,NA,NA,NA,0.1,NA,Lepidium densiflorum
+RR_07,5,1,4,Evolvulus arizonicus,NA,NA,NA,0.5,NA,Evolvulus arizonicus
+RR_07,5,1,5,Marina parryi,NA,NA,NA,0.5,NA,Marina parryi
+RR_07,5,2,1,Encelia farinosa,NA,NA,NA,8,NA,Encelia farinosa
+RR_07,5,2,2,Pennisetum ciliare,NA,NA,NA,4,NA,Pennisetum ciliare
+RR_07,5,2,3,Opuntia engelmannii,NA,NA,NA,4,NA,Opuntia engelmannii
+RR_07,5,3,1,Encelia farinosa,NA,NA,NA,1,NA,Encelia farinosa
+RR_07,5,4,1,Encelia farinosa,NA,NA,NA,7,NA,Encelia farinosa
+RR_07,5,4,2,Cottsia gracile,NA,NA,NA,10,NA,Cottsia gracilis
+RR_07,5,4,3,Muhlenbergia porteri,NA,NA,NA,4,NA,Muhlenbergia porteri
+RR_07,5,4,4,Carnegiea gigantea,NA,NA,NA,15,NA,Carnegiea gigantea
+RR_07,5,4,5,Jacquemontia pringlei,NA,NA,NA,2,NA,Jacquemontia pringlei
+RR_07,6,5,1,Mammilaria grahamii,NA,NA,NA,0.5,NA,Mammillaria grahamii
+RR_07,6,5,2,Encelia farinosa,NA,NA,NA,35,NA,Encelia farinosa
+RR_07,6,5,3,Mimosa aculetecorpa,NA,NA,NA,0.5,NA,Mimosa aculetecorpa
+RR_07,6,5,4,Jacquemontia pringlei,NA,NA,NA,0.1,NA,Jacquemontia pringlei
+RR_07,6,6,1,Parkinsonia microphylla,NA,NA,NA,20,NA,Parkinsonia microphylla
+RR_07,6,6,2,Pennisetum ciliare,NA,NA,NA,5,NA,Pennisetum ciliare
+RR_07,6,6,3,Encelia farinosa,NA,NA,NA,4,NA,Encelia farinosa
+RR_07,6,7,1,Pennisetum ciliare,NA,NA,NA,20,NA,Pennisetum ciliare
+RR_07,6,7,2,Jacquemontia pringlei,NA,NA,NA,1,NA,Jacquemontia pringlei
+RR_07,6,7,3,Encelia farinosa,NA,NA,NA,4,NA,Encelia farinosa
+RR_07,6,8,1,Mimosa aculetecorpa,NA,NA,NA,1,NA,Mimosa aculetecorpa
+RR_07,6,8,2,Encelia farinosa,NA,NA,NA,5,NA,Encelia farinosa
+RR_07,6,8,3,Pennisetum ciliare,NA,NA,NA,3,NA,Pennisetum ciliare
+RR_07,6,8,4,Evolvulus arizonicus,NA,NA,NA,0.5,NA,Evolvulus arizonicus
+RR_07,6,8,5,Allionia incarnata,NA,NA,NA,0.1,NA,Allionia incarnata
+RR_07,6,8,6,Hesperostipa neomexicana,NA,NA,NA,2,NA,Hesperostipa neomexicana
+LOLA_02,2,plant_walk,1,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+LOLA_02,2,plant_walk,2,Carnegiea gigantea,NA,NA,NA,0.01,NA,Carnegiea gigantea
+LOLA_02,2,plant_walk,3,Prosopsis velutina,NA,NA,NA,0.01,NA,Prosopsis velutina
+LOLA_02,2,plant_walk,4,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_02,2,plant_walk,5,Krameria erecta,NA,NA,NA,0.01,NA,Krameria erecta
+LOLA_02,2,plant_walk,6,Pennelia longifolia,NA,NA,NA,0.01,NA,Pennellia longifolia
+LOLA_02,2,plant_walk,7,Ambrosia deltoidea,NA,NA,NA,0.01,NA,Ambrosia deltoidea
+LOLA_02,2,plant_walk,8,Porophyllum gracile,NA,NA,NA,0.01,NA,Porophyllum gracile
+LOLA_02,2,plant_walk,9,Lycium sp.,NA,NA,NA,0.01,NA,Lycium sp.
+LOLA_02,2,plant_walk,10,Eriogorum wrightii,NA,NA,NA,0.01,NA,Eriogonum wrightii
+LOLA_02,2,plant_walk,11,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+LOLA_02,2b,plant_walk,1,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+LOLA_02,2b,plant_walk,2,Carnegiea gigantea,NA,NA,NA,0.01,NA,Carnegiea gigantea
+LOLA_02,2b,plant_walk,3,Prosopsis velutina,NA,NA,NA,0.01,NA,Prosopsis velutina
+LOLA_02,2b,plant_walk,4,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_02,2b,plant_walk,5,Krameria erecta,NA,NA,NA,0.01,NA,Krameria erecta
+LOLA_02,2b,plant_walk,6,Pennelia longifolia,NA,NA,NA,0.01,NA,Pennellia longifolia
+LOLA_02,2b,plant_walk,7,Ambrosia deltoidea,NA,NA,NA,0.01,NA,Ambrosia deltoidea
+LOLA_02,2b,plant_walk,8,Porophyllum gracile,NA,NA,NA,0.01,NA,Porophyllum gracile
+LOLA_02,2b,plant_walk,9,Lycium sp.,NA,NA,NA,0.01,NA,Lycium sp.
+LOLA_02,2b,plant_walk,10,Eriogorum wrightii,NA,NA,NA,0.01,NA,Eriogonum wrightii
+LOLA_02,2b,plant_walk,11,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+LOLA_03,2,plant_walk,1,Foquiera splendens,NA,NA,NA,0.01,NA,Fouquieria splendens
+LOLA_03,2,plant_walk,2,Carnegiea gigantea,NA,NA,NA,0.01,NA,Carnegiea gigantea
+LOLA_03,2,plant_walk,3,Opuntia engelmannii,NA,NA,NA,0.01,NA,Opuntia engelmannii
+LOLA_03,2,plant_walk,4,Parkinsonia microphylla,NA,NA,NA,0.01,NA,Parkinsonia microphylla
+LOLA_03,2,plant_walk,5,Ambrosia deltoidea,NA,NA,NA,0.01,NA,Ambrosia deltoidea
+LOLA_03,2,plant_walk,6,Mistletoe,NA,NA,NA,0.01,NA,Arceuthobium sp.
+LOLA_03,2,plant_walk,7,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_03,2,plant_walk,8,Trixis californica,NA,NA,NA,0.01,NA,Trixis californica
+LOLA_03,2,plant_walk,9,Lepidium densiflorum,NA,NA,NA,0.01,NA,Lepidium densiflorum
+LOLA_03,2,plant_walk,10,Forb - opposite lvs,NA,NA,NA,0.01,NA,Euphorbiaceae sp.
+LOLA_03,2,plant_walk,11,milky sap - Euphorbiacene,NA,NA,NA,0.01,NA,Euphorbiaceae sp.
+LOLA_03,2,plant_walk,12,erect chamaesyces,NA,NA,NA,0.01,NA,Euphorbiaceae sp.
+LOLA_03,2,plant_walk,13,Acacia greggii,NA,NA,NA,0.01,NA,Acacia greggii
+LOLA_03,2,plant_walk,14,Unk Asteraceae shrub,NA,NA,NA,0.01,NA,Asteraceae sp. (shrub)
+LOLA_03,2,plant_walk,15,Porophyllum gracile,NA,NA,NA,0.01,NA,Porophyllum gracile
+LOLA_03,2,plant_walk,16,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+LOLA_03,2,plant_walk,17,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+LOLA_04,2,plant_walk,1,Carnegiea gigantea,NA,NA,NA,0.01,NA,Carnegiea gigantea
+LOLA_04,2,plant_walk,2,Cylindropuntia bigelovli,NA,NA,NA,0.01,NA,Cylindropuntia bigelovii
+LOLA_04,2,plant_walk,3,Parkinsonia microphylla,NA,NA,NA,0.01,NA,Parkinsonia microphylla
+LOLA_04,2,plant_walk,4,Lycium sp 2,NA,NA,NA,0.01,NA,Lycium sp. (2)
+LOLA_04,2,plant_walk,5,Hesperostipa neomexicana,NA,NA,NA,0.01,NA,Hesperostipa neomexicana
+LOLA_04,2,plant_walk,6,Lepidium densiflorum,NA,NA,NA,0.01,NA,Lepidium densiflorum
+LOLA_04,2,plant_walk,7,Pennelia longifolia,NA,NA,NA,0.01,NA,Pennellia longifolia
+LOLA_04,2,plant_walk,8,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_04,2,plant_walk,9,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+LOLA_04,2,plant_walk,10,Ambrosia deltoidea,NA,NA,NA,0.01,NA,Ambrosia deltoidea
+LOLA_04,2,plant_walk,11,Trixis californica,NA,NA,NA,0.01,NA,Trixis californica
+LOLA_04,2,plant_walk,12,Cottsia gracile,NA,NA,NA,0.01,NA,Cottsia gracilis
+LOLA_05,2b,plant_walk,1A,Krameria erecta,NA,NA,NA,0.01,NA,Krameria erecta
+LOLA_05,2b,plant_walk,1B,cf. Oroborche cooperi,NA,NA,NA,0.01,NA,cf. Orobanche cooperi
+LOLA_05,2b,plant_walk,2,Unknown dried up cf. Scrophulariaceae,NA,NA,NA,0.01,NA,Schrophulariaceae sp.
+LOLA_05,2b,plant_walk,3,Cottsia gracile,NA,NA,NA,0.01,NA,Cottsia gracilis
+LOLA_05,2b,plant_walk,4,Foquiera splendens,NA,NA,NA,0.01,NA,Fouquieria splendens
+LOLA_05,2b,plant_walk,5,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_05,2b,plant_walk,6,cf. Gutierezia sorothrae,NA,NA,NA,0.01,NA,Gutierrezia sarothrae
+LOLA_05,2b,plant_walk,7,Lycium sp. 2,NA,NA,NA,0.01,NA,Lycium sp. (2)
+LOLA_05,2b,plant_walk,8,Prosopsis velutina,NA,NA,NA,0.01,NA,Prosopsis velutina
+LOLA_05,2b,plant_walk,9,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+LOLA_05,2b,plant_walk,10,Lepidium densiflorum,NA,NA,NA,0.01,NA,Lepidium densiflorum
+LOLA_06,2b,plant_walk,1,Trixis californica,NA,NA,NA,0.01,NA,Trixis californica
+LOLA_06,2b,plant_walk,2,Pennisetum ciliare,NA,NA,NA,0.01,NA,Pennisetum ciliare
+LOLA_06,2b,plant_walk,3,Xanthisima gracile,NA,NA,NA,0.01,NA,Xanthisma gracile
+LOLA_06,2b,plant_walk,4,Marina parryi,NA,NA,NA,0.01,NA,Marina parryi
+LOLA_06,2b,plant_walk,5,Parkinsonia microphylla,NA,NA,NA,0.01,NA,Parkinsonia microphylla
+LOLA_06,2b,plant_walk,6,Echinocerus triglo,NA,NA,NA,0.01,NA,Echinocereus triglochidiatus
+LOLA_06,2b,plant_walk,7,Mistletoe (on a palo verde),NA,NA,NA,0.01,NA,Arceuthobium sp.
+LOLA_06,2b,plant_walk,8,Bouteloua cardiophylla,NA,NA,NA,0.01,NA,Bouteloua curtipendula
+LOLA_06,2b,plant_walk,9,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+LOLA_06,2b,plant_walk,10,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+LOLA_06,2b,plant_walk,11,Cryptontha sp. -> Unk 2,NA,NA,NA,0.01,NA,Cryptantha sp. (Unk 2)
+LOLA_06,2b,plant_walk,12,Lycium sp. 2,NA,NA,NA,0.01,NA,Lycium sp. (2)
+LOLA_06,2b,plant_walk,13,cf. Bebbia juncea,NA,NA,NA,0.01,NA,cf. Bebbia juncea
+RR_01,2,plant_walk,1,Lycium porishii,NA,NA,NA,0.01,NA,Lycium parishii
+RR_01,2,plant_walk,2,Allionia incarnata,NA,NA,NA,0.01,NA,Allionia incarnata
+RR_01,2,plant_walk,3,Bothriochloa barbinodis,NA,NA,NA,0.01,NA,Bothriochloa barbinodis
+RR_01,2,plant_walk,4,Unknown forb,NA,NA,NA,0.01,NA,Unknown forb
+RR_01,2,plant_walk,5,Cylindropuntia versicolor,NA,NA,NA,0.01,NA,Cylindropuntia versicolor
+RR_01,2,plant_walk,6,Sphaerelcia cf. ambigua,NA,NA,NA,0.01,NA,Sphaeralcea ambigua
+RR_01,2,plant_walk,7,Acacia greggii,NA,NA,NA,0.01,NA,Acacia greggii
+RR_01,2,plant_walk,8,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+RR_01,2,plant_walk,9,Ayenia filiformis,NA,NA,NA,0.01,NA,Ayenia filiformis
+RR_01,2,plant_walk,10,Bouteloua curdipendula,NA,NA,NA,0.01,NA,Bouteloua curtipendula
+RR_01,2,plant_walk,11,Macharaerthera bigelovii,NA,NA,NA,0.01,NA,Machaeranthera bigelovii
+RR_01,2,plant_walk,12,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+RR_01,2,plant_walk,13,Eriogorum wrightii,NA,NA,NA,0.01,NA,Eriogonum wrightii
+RR_01,2,plant_walk,14,Mammilaria microcarpa,NA,NA,NA,0.01,NA,Mammillaria microcarpa
+RR_01,2,plant_walk,15,Lycium sp.,NA,NA,NA,0.01,NA,Lycium sp.
+RR_01,2,plant_walk,16,Erigeron divergens,NA,NA,NA,0.01,NA,Erigeron divergens
+RR_01,2,plant_walk,17,Mimosa aculetecorpa,NA,NA,NA,0.01,NA,Mimosa aculetecorpa
+RR_01,2,plant_walk,18,Sida abutifolia,NA,NA,NA,0.01,NA,Sida abutifolia
+RR_01,2,plant_walk,19,Unk shurb w pinrately - maybe compound dalea? albiflora leaves,NA,NA,NA,0.01,NA,Dalea albiflora
+RR_01,2,plant_walk,20,Grutierezia sorothrae,NA,NA,NA,0.01,NA,Gutierrezia sarothrae
+RR_01,2,plant_walk,21,Amaranthus palmeri,NA,NA,NA,0.01,NA,Amaranthus palmeri
+RR_01,2,plant_walk,22,Justicia longii,NA,NA,NA,0.01,NA,Justicia longii
+RR_02,2b,plant_walk,1,Staghorn cholla - Cylindropuntia versicolor,NA,NA,NA,0.01,NA,Cylindropuntia versicolor
+RR_02,2b,plant_walk,2,Mammallari grahamii,NA,NA,NA,0.01,NA,Mammillaria grahamii
+RR_02,2b,plant_walk,3,Red-barked shrub w/cottonwood-shaped lvs - Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+RR_02,2b,plant_walk,4,Allionia incarnata,NA,NA,NA,0.01,NA,Allionia incarnata
+RR_02,2b,plant_walk,5,cf. Erodium cicutarium,NA,NA,NA,0.01,NA,Erodium cicutarium
+RR_02,2b,plant_walk,6,Allium sp.,NA,NA,NA,0.01,NA,Allium sp.
+RR_02,2b,plant_walk,7,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+RR_02,2b,plant_walk,8,Mimosa aculetecorpa,NA,NA,NA,0.01,NA,Mimosa aculetecorpa
+RR_02,2b,plant_walk,9,Vulpia bromoides,NA,NA,NA,0.01,NA,Vulpia bromoides
+RR_02,2b,plant_walk,10,Unknown with beeked siliques (cf. Brassica nigra),NA,NA,NA,0.01,NA,Brassica nigra
+RR_02,2b,plant_walk,11,Mint/Borage/verbena bush - Aloysia wrightii,NA,NA,NA,0.01,NA,Aloysia wrightii
+RR_02,2b,plant_walk,12,Erigeron divergens,NA,NA,NA,0.01,NA,Erigeron divergens
+RR_02,2b,plant_walk,13,Mocharaenthera bigelovii,NA,NA,NA,0.01,NA,Machaeranthera bigelovii
+RR_02,2b,plant_walk,14,Ambrosia psilostachys,NA,NA,NA,0.01,NA,Ambrosia psilostachya
+RR_03,2,plant_walk,1,Acacia greggii,NA,NA,NA,0.01,NA,Acacia greggii
+RR_03,2,plant_walk,2,Dasilerion wheeleri,NA,NA,NA,0.01,NA,Dasylirion wheeleri
+RR_03,2,plant_walk,3,Ambrosia abrosioides,NA,NA,NA,0.01,NA,Ambrosia ambrosioides
+RR_03,2,plant_walk,4,Opuntia engelmannii,NA,NA,NA,0.01,NA,Opuntia engelmannii
+RR_03,2,plant_walk,5,Cottsia gracilis,NA,NA,NA,0.01,NA,Cottsia gracilis
+RR_03,2,plant_walk,6,cf. Agave schottii,NA,NA,NA,0.01,NA,Agave schottii
+RR_03,2,plant_walk,7,Acourtia (peresiza),NA,NA,NA,0.01,NA,Acourtia wrightii
+RR_03,2,plant_walk,8,Eriogonum wrightii,NA,NA,NA,0.01,NA,Eriogonum wrightii
+RR_03,2,plant_walk,9,Sphaerelcea ambigua,NA,NA,NA,0.01,NA,Sphaeralcea ambigua
+RR_03,2,plant_walk,10,Justicia longii,NA,NA,NA,0.01,NA,Justicia longii
+RR_03,2,plant_walk,11,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+RR_03,2,plant_walk,12,Foquiera splendens,NA,NA,NA,0.01,NA,Fouquieria splendens
+RR_03,2,plant_walk,13,Erigeron divergens,NA,NA,NA,0.01,NA,Erigeron divergens
+RR_03,2,plant_walk,14,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+RR_04,2,plant_walk,1,Bouteloua repens,NA,NA,NA,0.01,NA,Bouteloua repens
+RR_04,2,plant_walk,2,Fern 3,NA,NA,NA,0.01,NA,Fern sp. (3)
+RR_04,2,plant_walk,3,Plantago purshii,NA,NA,NA,0.01,NA,Plantago purshii
+RR_04,2,plant_walk,4,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+RR_04,2,plant_walk,5,Lycium sp. 2,NA,NA,NA,0.01,NA,Lycium sp. (2)
+RR_04,2,plant_walk,6,Unarmed acacia,NA,NA,NA,0.01,NA,Acacia sp. (unarmed)
+RR_04,2,plant_walk,7,Evolvulus arizonicus,NA,NA,NA,0.01,NA,Evolvulus arizonicus
+RR_04,2,plant_walk,8,Tridens mutica,NA,NA,NA,0.01,NA,Tridens muticus
+RR_04,2,plant_walk,9,Carnegiea gigantea,NA,NA,NA,0.01,NA,Carnegiea gigantea
+RR_04,2,plant_walk,10,Prosopsis velutina,NA,NA,NA,0.01,NA,Prosopsis velutina
+RR_04,2,plant_walk,11,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+RR_04,2,plant_walk,12,Allionia incarnata,NA,NA,NA,0.01,NA,Allionia incarnata
+RR_04,2,plant_walk,13,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+RR_04,2,plant_walk,14,Ayenia filiformis,NA,NA,NA,0.01,NA,Ayenia filiformis
+RR_04,2,plant_walk,15,Lycium sp. (same as RR_01),NA,NA,NA,0.01,NA,Lycium sp.
+RR_05,2,plant_walk,1,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+RR_05,2,plant_walk,2,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+RR_05,2,plant_walk,3,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+RR_05,2,plant_walk,4,"Fab subshrub, purple flrs > to key",NA,NA,NA,0.01,NA,Fabaceae sp.
+RR_05,2,plant_walk,5,Unk brassicaceae,NA,NA,NA,0.01,NA,Brassicaceae sp.
+RR_05,2,plant_walk,6,Echinocereus triglo,NA,NA,NA,0.01,NA,Echinocereus triglochidiatus
+RR_05,2,plant_walk,7,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+RR_05,2,plant_walk,8,Cylindropuntia versicolor,NA,NA,NA,0.01,NA,Cylindropuntia versicolor
+RR_05,2,plant_walk,9,Justicia longii,NA,NA,NA,0.01,NA,Justicia longii
+RR_05,2,plant_walk,10,Unkown aster,NA,NA,NA,0.01,NA,Asteraceae sp.
+RR_05,2,plant_walk,11,Carnegiea gigantea,NA,NA,NA,0.01,NA,Carnegiea gigantea
+RR_05,2,plant_walk,12,Unarmed acacia,NA,NA,NA,0.01,NA,Acacia sp. (unarmed)
+RR_05,2,plant_walk,13,Acacia greggii,NA,NA,NA,0.01,NA,Acacia greggii
+RR_05,2,plant_walk,14,Marina parryi,NA,NA,NA,0.01,NA,Marina parryi
+RR_06,2,plant_walk,1,Bouteloua repens,NA,NA,NA,0.01,NA,Bouteloua repens
+RR_06,2,plant_walk,2,Mammilaria grahamii,NA,NA,NA,0.01,NA,Mammillaria grahamii
+RR_06,2,plant_walk,3,dried up perennial herb,NA,NA,NA,0.01,NA,Unknown forb (perennial)
+RR_06,2,plant_walk,4,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+RR_06,2,plant_walk,5,Unkown Brassicaceae w/drooping siliques,NA,NA,NA,0.01,NA,cf. Boechera sp.
+RR_06,2,plant_walk,6,Muhlenbergia porteri,NA,NA,NA,0.01,NA,Muhlenbergia porteri
+RR_06,2,plant_walk,7,Ferocactus wislizeni,NA,NA,NA,0.01,NA,Ferocactus wislizeni
+RR_06,2,plant_walk,8,Cylindropuntia versicolor,NA,NA,NA,0.01,NA,Cylindropuntia versicolor
+RR_06,2,plant_walk,9,cf. centauria melitensis,NA,NA,NA,0.01,NA,Centaurea melitensis
+RR_06,2,plant_walk,10,Prosopsis velutina,NA,NA,NA,0.01,NA,Prosopsis velutina
+RR_06,2,plant_walk,11,Brickellia sp.,NA,NA,NA,0.01,NA,Brickellia sp.
+RR_06,2,plant_walk,12,Pennisetum ciliare,NA,NA,NA,0.01,NA,Pennisetum ciliare
+RR_06,2,plant_walk,13,Unk 2,NA,NA,NA,0.01,NA,Cryptantha sp. (Unk 2)
+RR_06,2,plant_walk,14,Echinocereus triglo,NA,NA,NA,0.01,NA,Echinocereus triglochidiatus
+RR_06,2,plant_walk,15,Macharaerthera bigelovii,NA,NA,NA,0.01,NA,Machaeranthera bigelovii
+RR_06,2,plant_walk,16,Ayenia filiformis,NA,NA,NA,0.01,NA,Ayenia filiformis
+RR_06,2,plant_walk,17,Allium sp.,NA,NA,NA,0.01,NA,Allium sp.
+RR_06,2,plant_walk,18,Metastelma arizonicum,NA,NA,NA,0.01,NA,Metastelma arizonicum
+RR_06,2,plant_walk,19,Lycium sp. 2,NA,NA,NA,0.01,NA,Lycium sp. (2)
+RR_07,2b,plant_walk,1,Foquiera splendens,NA,NA,NA,0.01,NA,Fouquieria splendens
+RR_07,2b,plant_walk,2,Cylindropuntia versicolor,NA,NA,NA,0.01,NA,Cylindropuntia versicolor
+RR_07,2b,plant_walk,3,Abutiton abutiloides,NA,NA,NA,0.01,NA,Abutiton abutiloides
+RR_07,2b,plant_walk,4,Jatropha caridophylla,NA,NA,NA,0.01,NA,Jatropha cardiophylla
+RR_07,2b,plant_walk,5,Lycium sp 2,NA,NA,NA,0.01,NA,Lycium sp. (2)
+RR_07,2b,plant_walk,6,Lycium sp,NA,NA,NA,0.01,NA,Lycium sp.
+RR_07,2b,plant_walk,7,Ephedra cf. trifurca,NA,NA,NA,0.01,NA,Ephedra trifurca
+RR_07,2b,plant_walk,8,Bouteloua repens,NA,NA,NA,0.01,NA,Bouteloua repens
+RR_07,2b,plant_walk,9,Prosopsis velutina,NA,NA,NA,0.01,NA,Prosopsis velutina
+RR_07,2b,plant_walk,10,Acacia greggii,NA,NA,NA,0.01,NA,Acacia greggii
