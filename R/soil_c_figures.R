@@ -15,9 +15,11 @@ d %>%
          variable = ifelse(variable == "SOC", "Soil Organic Carbon", "Total Soil Carbon")) %>%
   ggplot(aes(x=cover_type, y=value, fill=cover_type)) +
   geom_violin(draw_quantiles = .5,trim = F) +
+  # geom_boxplot() +
   facet_wrap(~variable) +
+  # geom_jitter() +
   theme_classic() +
-  ylab("g m<sup>2</sup> C") +
+  ylab("g C m<sup>-2</sup>") +
   xlab("Cover Type") +
   scale_fill_manual(values = c("burlywood4", "gold", "darkgreen")) +
   theme(axis.title.y = element_markdown(),
@@ -30,19 +32,25 @@ d %>%
 ggsave(filename = "figs/soil_c_violin.png", width = 5.5, height=3.5)
 
 # soil c means
-
+# soil_texture
 dsc<- d %>%
   dplyr::select(bare_SOC, buffel_SOC, other_SOC, ends_with("TSC_g_m2"),site_plot) %>%
   pivot_longer(cols = names(.)[1:6]) %>%
   tidyr::separate(name, c("cover_type", "variable"), "_") %>%
+  left_join(soil_texture) %>%
   tidyr::separate(site_plot, c("site", "plot"), "_") %>%
   mutate(cover_type = ifelse(cover_type == "other", "native", cover_type))
 
+print(dsc, n=100)
 
 m_soc<-lm(log(value) ~ cover_type + site, data = dsc %>% filter(variable == "SOC"))
+m_soc<-lm(log(value) ~ cover_type+percent_sand+site, data = dsc %>% filter(variable == "SOC"))
+
 m_tsc<-lm(log(value) ~ cover_type + site, data = dsc %>% filter(variable == "TSC"))
+m_tsc<-lm(log(value) ~ cover_type +percent_sand + site, data = dsc %>% filter(variable == "TSC"))
 
 summary(m_soc); r2glmm::r2beta(m_soc)
+summary(m_soc_t); r2glmm::r2beta(m_soc_t)
 summary(m_tsc); r2glmm::r2beta(m_tsc)
 performance::check_model(m_soc)
 performance::check_model(m_tsc)

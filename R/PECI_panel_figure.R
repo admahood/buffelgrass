@@ -309,7 +309,7 @@ p_woody_c<-ggplot(PECI, aes(PECI_cv, woody_C, color = site))+
   geom_point(size=4)+
   scale_color_manual(values=c("#972D15","#81A88D"))+
   geom_line(data=predframe, size=1)+
-  geom_smooth(method="lm",se=F, lty=2, data =PECI %>% filter(PECI_cv < 40) )+
+  # geom_smooth(method="lm",se=F, lty=2, data =PECI %>% filter(PECI_cv < 40) )+
   geom_ribbon(data=predframe,
               aes(ymin=lwr,ymax=upr, fill = site, color = NULL),alpha=0.2)+
   xlab("Buffelgrass Cover (%)")+ ylab("Woody Carbon (g/m2)")+

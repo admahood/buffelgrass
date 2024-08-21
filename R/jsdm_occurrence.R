@@ -637,15 +637,32 @@ hmdf_support <- OmegaCor[[1]]$support %>%
   as.matrix
 
 # avg association strengths
-OmegaCor[[1]]$mean %>%
+abs_rc<- OmegaCor[[1]]$mean %>%
   abs() %>%
-  rowSums() %>%
+  rowMeans() %>%
   as_tibble(rownames = "Species") %>%
   arrange(desc(value)) %>%
-  left_join(prevalence) %>%
-  print(n=20) %>%
-  write_csv("figs/residual_correlation_abs.csv")
+  left_join(prevalence) #%>%
+  # print(n=20) %>%
+write_csv(abs_rc,"figs/residual_correlation_abs.csv")
 
+#same thing, buffel only
+abs_rc_peci<- OmegaCor[[1]]$mean %>%
+  as_tibble(rownames = "Species") %>%
+  dplyr::select(Species, residual_correlation = Pennisetum_ciliare) %>%
+  filter(residual_correlation<1) %>%
+  arrange(desc(abs(residual_correlation))) %>%
+  left_join(prevalence) #%>%
+  # print(n=20) %>%
+
+write_csv(abs_rc_peci,"figs/residual_correlation_w_peci.csv")
+all_together <- abs_rc %>%
+  left_join(abs_rc_peci) %>%
+  dplyr::select(Species, Prevalence=prevalence, 
+                mean_abs_rc = value,
+                rc_w_peci = residual_correlation) %>%
+  mutate_if(is.numeric, round, 2)
+write_csv(all_together, "figs/supp_table_rc_all.csv")
 
 # switch colors around
 pcor<-ggcorrplot::ggcorrplot(filtered, type = "lower",

@@ -187,10 +187,18 @@ params2 <- lavaan::standardizedSolution(si_t) %>%
   filter(rhs %in% c("PECI_cv", "richness", "herb_C"))
 
 indirect2 <- ggsem_filt(params = params2, filename = "figs/peci_sem_ie1.png", exclude = "site",
-                        title = c("Total effect on Species Richeness","Standardized Effect = -2.505"),
+                        title = c("Total effect on Species Richness","Standardized Effect = -2.505"),
                         rename_nodes = T, new_node_names = nnn,
                         layout = "manual",layout_df = layout_df, alpha = 0.05) ;indirect2
 
 ggarrange(indirect1, indirect2) %>%
   ggsave(plot=., filename = "figs/indirect_effects.png", width=12, height = 5,
          bg="white")
+
+
+ggarrange(
+  ggarrange(paths, legend, widths = c(2,.5), nrow=1),
+  ggarrange(indirect1, indirect2, nrow = 1, labels = c('', 'c')),
+  nrow = 2, labels = 'auto'
+)
+ggsave(filename = 'figs/multipanel_sem.png', width = 12, height =10, bg='white')

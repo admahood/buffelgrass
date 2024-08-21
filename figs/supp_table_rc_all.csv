@@ -1,0 +1,24 @@
+Species,Prevalence,mean_abs_rc,rc_w_peci
+Lepidium_densiflorum,33,0.32,-0.76
+Pennisetum_ciliare,50,0.31,NA
+Janusia gracilis,25,0.29,-0.62
+Opuntia_engelmannii,14,0.28,-0.57
+Encelia_farinosa,39,0.24,-0.56
+perennial_graminoid,25,0.21,-0.51
+Mimosa_aculetecorpa,31,0.19,-0.24
+moss_fern,17,0.18,-0.37
+shrub,24,0.18,0.38
+Lycium_spp,5,0.17,0.35
+Eragrostis_lehmanniana,22,0.15,-0.03
+leguminous_shrub,9,0.14,0.21
+leguminous_tree,22,0.13,-0.15
+Cylindropuntia_spp,10,0.13,-0.24
+annual_forb,19,0.12,0.12
+Mammillaria_grahamii,6,0.12,0.16
+Cryptantha_spp,17,0.11,-0.05
+Plantago_purshii,10,0.11,-0.12
+Ferocactus_wislizeni,1,0.11,-0.09
+Fouquieria_splendens,13,0.11,0.1
+perennial_forb,24,0.1,0.18
+annual_graminoid,2,0.1,0.11
+Carnegiea_gigantea,4,0.08,0.13

@@ -55,11 +55,6 @@ LOLA_05,5,Carnegiea_gigantea,0.1
 LOLA_06,8,Carnegiea_gigantea,0.5
 RR_07,4,Carnegiea_gigantea,15
 RR_02,6,Centaurea_melitensis,2
-RR_03,8,cf_Bromus_sp,0.1
-LOLA_01,7,cf_Chenopodiaceae_sp,0.5
-RR_01,4,cf_Descurainia_sophia,7
-RR_01,8,cf_Descurainia_sophia,5
-RR_03,6,cf_Phacelia_sp,1
 RR_03,4,Cirsium_sp,2
 RR_03,7,Cirsium_sp,1
 LOLA_01,2,Cottsia_gracilis,1
@@ -447,3 +442,8 @@ LOLA_01,4,Trixis_californica,1
 LOLA_01,5,Trixis_californica,0.5
 LOLA_06,3,Trixis_californica,0.1
 RR_05,7,Vulpia_bromoides,0.1
+RR_03,8,cf_Bromus_sp,0.1
+LOLA_01,7,cf_Chenopodiaceae_sp,0.5
+RR_01,4,cf_Descurainia_sophia,7
+RR_01,8,cf_Descurainia_sophia,5
+RR_03,6,cf_Phacelia_sp,1

@@ -1,5 +1,6 @@
 # data prep script
 library(tidyverse)
+library(janitor)
 write_to_csv <- FALSE
 # folded aspect function
 get_folded_aspect<-function(aspect){
@@ -8,6 +9,9 @@ get_folded_aspect<-function(aspect){
 
 # read in weighted C data frame
 weighted_c <- read_csv("data/weighted_carbon.csv")
+soil_texture <- readxl::read_xlsx("data/BuffelgrassAnalysis/Supplemental Table Texture.xlsx") %>%
+  clean_names() %>%
+  mutate(site_plot = paste0(site, "_0", plot))
 
 # read in and join several data frames, renaming as necessary or appropriate
 d <- read_csv("data/AGB_woody_biomass.csv") %>%
@@ -41,7 +45,7 @@ d <- read_csv("data/AGB_woody_biomass.csv") %>%
             y=., by = "site_plot") %>%
   # creating a slope * folded aspect column
   mutate(slope_aspect = fa * slope) %>% 
-  dplyr::rename(soil_TC = weighted_TC_gC_m2)
+  dplyr::rename(soil_TC = weighted_TC_gC_m2) 
 
 # decide whether to write the data frame to a csv  
 # write_to_csv <- askYesNo("Do you want to write the data frame to a csv?")  

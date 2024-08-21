@@ -16,10 +16,6 @@ Brickellia_sp,shrub,1
 Calliandra_eriophylla,leguminous_shrub,7
 Carnegiea_gigantea,Carnegiea_gigantea,4
 Centaurea_melitensis,annual_forb,1
-cf_Bromus_sp,annual_graminoid,1
-cf_Chenopodiaceae_sp,annual_forb,1
-cf_Descurainia_sophia,annual_forb,2
-cf_Phacelia_sp,perennial_forb,1
 Cirsium_sp,annual_forb,2
 Cottsia_gracilis,Janusia gracilis,25
 Cryptantha_sp,Cryptantha_spp,1
@@ -67,3 +63,7 @@ Selaginella_pilifera,moss_fern,13
 Sida_abutifolia,perennial_forb,2
 Trixis_californica,shrub,3
 Vulpia_bromoides,annual_graminoid,1
+cf_Bromus_sp,annual_graminoid,1
+cf_Chenopodiaceae_sp,annual_forb,1
+cf_Descurainia_sophia,annual_forb,2
+cf_Phacelia_sp,perennial_forb,1
